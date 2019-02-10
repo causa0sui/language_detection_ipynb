@@ -1,0 +1,878 @@
+Türkçe ya da Türk dili, batida Balkanlar’dan baºlayip doguda Hazar Denizi sahasina kadar konuºulan Altay dillerinden biridir. Yaºi, en eski hesaplara göre 8500 olan Türkçe, bugün yaºayan Dünya dilleri arasinda en eski yazili belgelere sahip olan dildir. Bu belgeler, çivi yazili Sümerce tabletlerdeki alinti kelimelerdir.[12][13] Türk yazi dilleri içinde Oguz sahasi yazi dillerinden Osmanli Türkçesinin devamini oluºturur. Baºta Türkiye olmak üzere eski Osmanli Imparatorlugu cografyasinda konuºulan Türkçe, dünyada en fazla konuºulan 5. dildir. Türkçe sondan eklemeli bir dildir.[14] Bundan ötürü kullanilan herhangi bir eylem üzerinden istenildigi kadar sözcük türetilebilir.[15] Türkiye Türkçesi bu yönünden dolayi diger Türk dilleriyle ortak ya da ayrik bulunan onlarca eke sahiptir.[16] Türkçe çok geniº kullanimiyla birlikte zengin bir dil olmasinin yani sira, genel itibariyla “özne-nesne-yüklem” biçimindeki cümle kuruluºuna sahiptir.
+Türkiye Türkçesi konuºanlarin dünya üzerinde yayilimi
+  Resmi Dil
+Türkiye, Kuzey Kibris Türk Cumhuriyeti, Kibris Cumhuriyeti, Makedonya (ªehir seviyesinde), Kosova,Irak (Bölgesel)
+  1.000.000 dan fazla konuºan
+Almanya
+  500.000 - 1.000.000 arasi konuºan
+Bulgaristan, Suriye
+  100.000 - 500.000 arasi konuºan
+Fransa, Hollanda, Belçika, Birleºik Krallik, Avusturya, ABD, Özbekistan,Azerbaycan, Rusya
+  25.000 - 100.000 arasi konuºan
+Yunanistan, Avustralya, Kanada, Meksika, Rusya, Isveç, Danimarka, Isviçre, Romanya
+  25.000 az konuºan/ hiç konuºmayan
+Kalan ülkeler
+
+Türkiye Türkçesi, batidan doguya dogru Balkanlar, Ege Adalari, Anadolu, Kibris, Orta Dogu olmak üzere Avrupa ve Asya kitalarinda yazi dili ve çeºitli agizlariyla konuºulmaktadir. Ayni grupta yer aldigi diger Oguz grubu yazi dilleri de bu sahanin dogu ve güneyinde; Kafkaslar, Azerbaycan, Iran, Hazar Denizi’nin güneydogusunda konuºulmaktadir.
+
+“Istanbul agzi”, Türkiye Türkçesi yazi dilinin kaynagi olarak kabul edilir; yazi dili bu agiz temelinde oluºmuºtur. Anadolu agizlarinda ve Türk yazi dillerinin bazilarinda bulunan "açik e" (/?/), "hiriltili h" (/?/) ve "öndamaksil n" (/?/) sesleri, Istanbul agzi dolayisiyla yazi dilinde de yoktur. Ayrica yine diger Türk lehçe ve agizlarinda bulunan /q/, /w/ gibi fonemler de bulunmaz.
+
+Içindekiler
+
+    1 Siniflandirma
+    2 Resmî durum
+        2.1 Resmî olmayan kullanimlar
+    3 Kurumsal yapi ve kullanim
+    4 Tarih
+        4.1 Altay dil birligi
+        4.2 Sümerce-Türkçe iliºkisi
+        4.3 Hun dönemi
+        4.4 Eski Türkçe
+        4.5 Orta Asya'dan Anadolu'ya
+        4.6 Dil Devrimi
+    5 Türkçenin alfabeleri
+        5.1 Orhun Alfabesi
+        5.2 Uygur Alfabesi
+        5.3 Arap asilli Türk alfabesi
+        5.4 Ermeni harfli Türkçe
+        5.5 Latin asilli Türk alfabesi
+    6 Türkiye Türkçesi Agizlari
+        6.1 Agiz Bölgeleri
+            6.1.1 Anadolu Agiz Bölgesi
+                6.1.1.1 Dogu Grubu
+                6.1.1.2 Kuzeydogu Grubu
+                6.1.1.3 Bati Grubu
+            6.1.2 Rumeli Agiz Bölgesi
+                6.1.2.1 Bati Rumeli
+                6.1.2.2 Dogu Rumeli
+        6.2 Örnek Metinler
+            6.2.1 Temsilî ªekiller
+    7 Türkçenin Dil Bilgisi
+        7.1 Türkçenin Özellikleri
+        7.2 Türkçede ses evrimi
+        7.3 Dilbilgisi
+        7.4 Sözcük türeme farki
+        7.5 Eklerle tümce oluºturma
+        7.6 Büyük ve küçük ünlü uyumu
+    8 Türkçe Sesbilimi (fonolojisi)
+        8.1 Ünsüz sesler
+        8.2 Ünlü sesler
+    9 Türkiye Türkçesinde basit zamanlar
+        9.1 Geçmiº zaman
+        9.2 ªimdiki zaman
+        9.3 Gelecek zaman
+        9.4 Geniº zaman
+    10 Türkiye Türkçesinde birleºik zamanlar
+        10.1 Geniº Zaman
+        10.2 Görülen geçmiº zaman
+        10.3 Duyulan geçmiº zaman
+        10.4 ªart
+        10.5 Diger birleºik zamanlar
+            10.5.1 -miº olacak
+            10.5.2 -yor olacak
+    11 Yabanci dillerle etkileºimi
+        11.1 Türkçe sözcük varligi
+        11.2 Türkiye Türkçesine geçen yabanci sözcükler
+        11.3 Türkçeden diger dillere geçen sözcük sayisi
+        11.4 Türkçe sanilan yabanci kökenli sözcükler
+        11.5 Unutulmuº sözcükler
+    12 Kaynakça
+    13 Ayrica bakiniz
+    14 Diº baglantilar
+
+Siniflandirma
+
+    Ana maddeler: Ural-Altay Dil Ailesi, Altay dilleri ve Türk dilleri
+
+Türkiye Türkçesi, dünya dilleri siniflandirmasinda Ural-Altay Dil Ailesi’nin Altay dilleri kolunda bulunur. Ural-Altay dil birligi temelinde yapilan derinlemesine araºtirmalar, bu iki grubu ayni dil ailesi içinde birleºtirme bakimindan gittikçe zayiflayan sonuçlar vermiºtir.[17] Bu sebeple Türkçe, bazi siniflandirmalarda Altay dillerinden biri olarak belirtilmekle yetinilir; siniflama buradan baºlatilir.
+
+Ünlü Türkolog Reºit Rahmeti Arat’in “Türk ªivelerinin Tasnifi” makalesinde ayrintilica anlatildigi gibi Türkiye Türkçesinin de yer aldigi Türk yazi dillerinin siniflandirmasi konusunda geçmiºten bugüne kadar çeºitli bilimsel görüºler ortaya atilmiºtir. Bütün siniflandirma çaliºmalarindan da hareketle Arat’in yaptigi siniflandirmaya göre Türkiye Türkçesi, “Türk ºive gruplari”nin “VI. dagli grubu (Cenup)” içinde yer alir.[18] Türk dil ailesi, Dogu Avrupa, Orta Asya ve Sibirya’da konuºulan 30 kadar yaºayan dili kapsar.[19] Türk dili konuºurlarinin %40 civarinda bir kesimi Türkiye Türkçesi konuºmaktadir.[20] British Council tarafindan yapilan bir araºtirmada Türkçe, gelecegin 10 dili arasinda dokuzuncu sirada yer almiºtir.[21]
+Resmî durum
+Kosova'da Türkçenin resmî dil statüsünün Prizren’de tabelalarda Arnavutça ve Sirpça ile beraber kullanimi
+
+Türkiye Türkçesi, Türkiye, Kuzey Kibris Türk Cumhuriyeti, Kibris Cumhuriyeti, Irak, Makedonya, Kosova, Romanya ülkelerinde çeºitli düzeylerde resmî kimlige sahip bir dildir. Resmiyete sahip oldugu cografya, Türkiye Türkçesinin yayilim alani içindedir; batida Balkanlar’dan (orta ve kuzey) doguda Orta Dogu’ya kadar bir alani kapsar.
+
+1982 T.C. Anayasasina göre Türkçe, Türkiye Devleti'nin dilidir. Bu yasa anayasanin Birinci Kisminin, Genel Esaslar Bölümünde, 3. Maddede geçer. Ayni zamanda, ilgili bölümde bulunan 4. Maddeye göre bu madde asla degiºtirilemez, degiºtirilmesi teklif dahi edilemez.[22]
+	« Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. Dili Türkçedir.- T.C. Anayasasi[22] »
+	
+
+Türkiye ve Kuzey Kibris Türk Cumhuriyeti’nde bu dil ülkenin resmî dilidir.[22][23] Irak’ta Kerkük ilinde resmî dildir.[24] Kibris Cumhuriyeti’nde (diger adiyla Güney Kibris Rum Yönetimi) anayasal olarak Türkçe, Yunanca ile beraber resmî dil olarak geçer ancak Türkçenin resmiyetinin uygulanmasinda sorunlar vardir.[25] Makedonya’nin batisinda yer alan Gostivar, Merkez Jupa, Plasniça ve Mavrova ve Rostuºa Belediyesi sinirlari içinde Türkçe resmî kullanimdadir.[26][27][28][29][30] Kosova’da Prizren, Mamuºa, Gilan, Mitroviça, Priºtine ve Viçitirin Belediyesi kapsaminda Türkçe resmî dil statüsüne sahiptir.[31][32] Prizren Belediyesi sinirlari içinde Türkçenin resmiyeti ise ayrica herhangi bir ölçütün diºinda, Kosova Cumhuriyeti “Dillerin Kullanimi Için Yasa” kapsaminda yasa korumasi altindadir.[33] Romanya’da Türkçe, devletin ilgili bölge veya bölgeler için resmî olarak kabul ettigi azinlik dillerindendir.[34]
+Resmî olmayan kullanimlar
+
+Avrupa ve Asya kitasindaki bazi ülkelerde Türkiye Türkçesi için günümüzde geçerli olan resmiyetin diºinda, ciddi konuºurlara sahip olunsa da bu dilin çeºitli sebeplerle resmî dil statüsü kazanmadigi ülkeler de vardir. Bulgaristan nüfusunun %10 kadarinin anadili olarak Türkçe için, Bulgaristan devlet televizyonunun Türkçe programlari vardir. Kircaali Belediyesi ise iki dilde hizmet verir.[35] Deliorman ve Dogu Rumeli'de okullarda seçmeli anadili dersidir. Yunanistan'da ise Iskeçe ve Gümülcine'de seçmeli anadili dersidir ve dinî iºlerde de kullanilmaktadir. Rodos'taki 2500-3000 kiºilik Türk azinligi ise, Lozan Antlaºmasi kapsami diºinda kalarak Yunanistan’in ana karasinda Türklerin sahip olduklari haklardan yoksun olmuºlardir.[36]
+Kurumsal yapi ve kullanim
+
+    Ana madde: Türk Dil Kurumu
+
+Türkçe, Türkiye'nin ve Türkiye Türklerinin kurumsal dilidir. Türkiye'de Türk Dil Kurumu, Türk Dili Tetkik Cemiyeti adiyla 12 Temmuz 1932'de Atatürk'ün talimatiyla kurulmuºtur. Cemiyetin kuruculari, hepsi de milletvekili ve dönemin taninmiº edebiyatçilari olan Sâmih Rifat, Ruºen Eºref, Celâl Sahir ve Yakup Kadri'dir. Kurumun ilk baºkani Sâmih Rifat'tir. Türk Dili Tetkik Cemiyetinin amaci, "Türk dilinin öz güzelligini ve zenginligini meydana çikarmak, onu yeryüzü dilleri arasinda degerine yaraºir yükseklige eriºtirmek" olarak tespit edilmiºtir. Atatürk'ün sagliginda, 1932, 1934 ve 1936 yillarinda yapilan üç kurultayda hem Kurumun yönetim organlari seçilmiº, hem dil politikasi belirlenmiº, hem de bilimsel bildiriler sunulup tartiºilmiºtir. 26 Eylül-5 Ekim 1932 tarihleri arasinda Dolmabahçe Sarayi'nda yapilan Birinci Türk Dili Kurultayi sonunda Kurumun "Lügat-Istilah, Gramer-Sentaks, Derleme, Lenguistik-Filoloji, Etimoloji, Yayin" adlari ile alti kol hâlinde çaliºmalarini sürdürmesi kabul edilmiºtir. Sonraki kurultaylarda bu kollardan bazilari ayrilmiº, bazilari tekrar birleºtirilmiº; fakat ana çati degiºtirilmemiºtir. 1934'te yapilan kurultayda Cemiyetin adi, Türk Dili Araºtirma Kurumu; 1936'daki kurultayda ise Türk Dil Kurumu olmuºtur.[37]
+
+Türk Dil Kurumu, Türkiye Türkçesinin imlasinin standartlarini belirleme, dil hakkinda çeºitli düzeyde çaliºmalar yapma gibi konularda faaliyetler yürütür. Günümüzde bu kurum, sadece Türkiye degil, dünya çapinda Türkçe ve Türkoloji ile ilgili çeºitli çaliºmalarda kurumsal yüzü veya akademik mensuplariyla yer almaktadir.
+
+Türk Dil Kurumunun yapisiyla ilgili ilk önemli degiºiklik 1951 yilindaki olaganüstü kurultayda yapilmiºtir. Atatürk'ün sagliginda Millî Egitim Bakaninin Kurum baºkani olmasini saglayan tüzük maddesi 1951'de degiºtirilmiº; böylece Kurumun devletle baglantisi koparilmiºtir. Ikinci önemli yapi degiºikligi 1982-1983 yillarinda gerçekleºtirilmiºtir. 1982'de kabul edilen ve ºu anda da yürürlükte olan Anayasa ile Türk Dil Kurumu ve Türk Tarih Kurumu, bir Anayasa kuruluºu olan Atatürk Kültür, Dil ve Tarih Yüksek Kurumu çatisi altina alinmiº; böylece devletle olan baglar yeniden ve daha güçlü olarak kurulmuºtur.[37]
+Tarih
+
+Türkçe, bilinen ilk yazili kaynagi olan Orhun Yazitlari ele alindiginda, bin yildan fazla geçmiºe sahip bir dildir.[38]
+
+Türkiye Türkçesi dört evreden geçmiºtir:[39]
+
+    Eski Anadolu Türkçesi; 13-15. Yüzyillar
+    Klasik Osmanlica, 16.-19. Yüzyillar
+    Yeni Osmanlica, 19.-20. Yüzyillar
+    Cumhuriyet Donemi Türkçesi, 20. Yüzyildan bugüne
+
+Altay dil birligi
+
+    Ana maddeler: Altay dilleri teorisi ve Altay dilleri
+
+Dil bilgisi edebiyatinda bir ‘dil ailesi’ veya ‘toplulugu’ için kullanilan Altay dilleri adiyla, dar olarak üç (Türk, Mogol, Mançu dâhil Tunguz), geniº olarak bunlarla birlikte Kore ve kisa bir süreden beri Japon dilinin de yeniden katilmasi ile, beº dil kastedilir.[40] Bu teori; Türk, Mogol, Tunguz, Kore ve Japon dillerinin ortak bir kökten çiktigini ve bunlarin akraba oldugunu kabul eden teorinin adidir. Teoriye göre bu diller ortak bir ata dilden iniyordu. Ortak ata dil, farazi bir dildi ve tabiatiyla bir adi yoktu. Akrabalik teorisine inananlar bu farazi dile Altay dili (Altayca) adini verdiler.[41] Teorik olarak kurgulanan bu Altay dilinden ayrilmalar sonucunda ortaya çikan Türk dili ile Türkiye Türkçesinin tarihi baºlar.
+Sümerce-Türkçe iliºkisi
+
+Aºagi yukari MÖ 3500-MÖ 1700 yillari döneminde bugünkü Mezopotamya bölgesinde konuºulmuº olan Sümerce, döneminde büyük bir medeniyetin temsilcisi, yazinin kullanildigi dil olmuºtur. 1947-1948 akademik yili sirasinda Istanbul Üniversitesi Türkoloji Bölümünde ögrenci iken, eline geçen tercüme Eti Dili Sözlügü’nde rastladigi gud “sigir, öküz” kelimesi Türkolog Osman Nedim Tuna’nin Sümerce ile derin ilgisini baºlatmiºtir. Bu kelime ile Eski Türkçe ud “öküz” kelimesi arasindaki benzerlik dikkatini çekmiºtir. Bunun üzerine, Sümerce hakkinda çok çeºitli okumalar yapan Tuna, “Sümer ve Türk Dillerinin Tarihî Ilgisi ve Türk Dilinin Yaºi Meselesi” adli eserinde, yaklaºik olarak son kirk yilda tespit ettigi 32 ses denkliginin, karakteristik olan ve maksada yeter 16’sini sunmuºtur.[42] Türkoloji, Sümeroloji ve daha birçok bilim dalinda büyük çigir açan bu çaliºmadan çikarilan sonuçlar ºu ºekilde verilmiºtir:
+
+    Sonuç
+
+    Sümerce ve Türkçe çok daha eski bir devirde birbiri ile akraba olmuº olabilir veya olmayabilir. Bu konu bizi burada ilgilendirmiyor. Fakat, Sümerlerle Türkler arasinda dil bakimindan tarihî bir ilgi bulundugu hususu bu 168 kelime ve gerekli açiklamalarla ispatlanmiºtir.
+    Türklerin en az MÖ 3500’lerde Türkiye’nin Dogu bölgesinde bulundugu tespit edilmiºtir. Bunun Kuzey, Dogu ve Bati sinirlarinin ne oldugunu baºka bir çaliºmamda açiklayacagim.
+    Türk dilinin zamanimizdan 5500 yil önce müstakil ve iki kollu bir dil olarak varligi ispatlanmiºtir. Eger doguºtan, Sümerlerle temasa geldikleri zamana kadarki çözülme hizi sabit ise, Ilk Türkçe veya Ana Türkçenin muazzam bir zaman önce yaºamiº olmasi gerekir. Bu sonuç, benim 1978 yili sonunda tamamlayip 1983 Agustosunda yayimladigim Altay Dilleri Teorisi adli çaliºmamda, Türk dilinin, archeology ve glottochronology araºtirmalarindan hareketle ileri sürdügüm ‘yaºi, en pinti hesaplara göre 8500’dür’ (s. 52-55) ifademle karºilaºtirilabilir. ªimdi, bu rakam dogrulanmaktadir. Çünkü Ana Türkçeden Ana Dogu ve Bati Türkçesine kadar geçen zamani da hesaba katarsak, bu devreden zamanimiza kadar geçen 5500 yilin ikiye katlanmasi mümkündür.
+    Bugün, yaºayan Dünya dilleri arasinda, en eski yazili belgelere sahip olan dil, Türk dilidir. Bunlar, çivi yazili Sümerce tabletlerdeki alinti kelimelerdir.
+    Altay dili teorisindeki en önemli meselelerden biri olan l2/º, r2/z’ye ait misallerdeki anachronism, bu konuda aksi istikamette bir düzeltme yapilmasini gerektirir.”[12]
+
+Karºilaºtirmali kelime listesi (Kismi liste)
+(Osman Nedim Tuna, Sümer ve Türk Dillerinin Tarihî Ilgisi ve Türk Dilinin Yaºi Meselesi, Türk Dil Kurumu Yayinlari, Ankara 1997, s. 5-21. ISBN 975-16-0249-1) Ses denkligi 	Sümer dilindeki anlami[Liste notu 1] 	Sümer dili (Sm.) 	Türk dili (Tk.) 	Türk dilindeki anlami
+Sm. •D : Tk. •y, O
+“spalten, zerschneiden, zerstören” 	dar 	yar- 	“yarmak”
+“Band” 	dib 	yip 	“ip”
+“Sesamöl” 	dig 	yag 	“yag”
+“verschlissen” 	tab 	yap- 	“örtmek, kapamak”
+“Feind, Peiniger” 	taga 	yagi 	“düºman”
+“country” 	tir 	yir 	“yer, toprak, yeryüzü”
+Sm. •g : Tk. O, •y
+“entfernen” 	gid 	id- 	“salmak, göndermek, serbest birakmak; geçirmek”
+“to be ill, to ache, to hurt, to give pain” 	gig 	ig 	“hastalik; hasta”
+“wood, tree” 	giº 	yiº 	“orman, dag, agaç, çali”
+“Tür”, “door” 	giºig 	eºik 	“kapi”
+“ox”, gu “Rind” 	gud 	ud 	“sigir, öküz; boga (burcu); sigir”
+“Ökumene”, krº. ukkin “Versammlung” 	gukin 	ökün 	“para, gül ve buna benzer ºeylerin yigini”, öküm “yigin”,
+üg- “yigmak”, ügük “dolu, yigili”
+“Ernte” 	gurun6 	orum 	“kesim”
+Sm. •m : Tk. •K
+(Emesal) “to stay” (for gal) 	mal 	kal- 	“kalmak”
+“Ameise” 	marun 	karinça 	“karinca”
+“Grenze” 	maº 	kaº 	“herhangi bir ºeyin kiyisi”
+“name, fame” 	mu 	kü 	“ün, ºan”
+Sm. •n : Tk. •y
+“sich niederlagen, beschlafen; sich lagern” 	nad9 	yad- 	“yaymak, döºemek, sermek”
+“Bezirk” 	nanga 	ya?a 	“herhangi bir irmagin bir yani”, ya?ak “yan, taraf”; yanggak “yan, taraf”
+“Summe” 	nigin 	yigin 	“yigin, küme, yigilmiº”
+“Licht” 	nurum 	yaruk 	“iºik, aydinlik; parlak”
+Sm. •S : Tk. •y, O
+“schreiben”, “to write” ~ ºar id. 	sar 	yaz- 	“ºaºmak, yanilmak, çözmek, yazmak”; “nakºetmek, resmetmek,
+süsleyip bezemek”, yazikçi “mektup getirip götüren elçi”
+“prime, good” 	sig 	yig 	“yeg, iyi, daha iyi”
+“Hand” 	silig 	elig 	“el”
+“singen und spielen”, sir3 “singen” 	ºir 	yir 	“koºma, türkü, hava, ir, musikide irlama, gazel”, “ºarki, türkü”
+Sm. •ª : Tk. •ç
+“small child” 	sag 	çaga 	“yeni dogmuº, daha tüyü bitmemiº”
+“durchschneiden” 	ºab 	çap- 	“vurmak”, çap-tur- “boyun vurdurmak”, çap- “çarpmak, vurup kesmek”
+“Gott ªulpae” 	ºulpae 	çolpan 	“çoban yildizi”, “çoban yildizi, zühre yildizi”, “sabah yildizi, étoile blanche
+qui se montre vers l’aurore et sur laquelle se guident les caravans”
+“Insekt” 	zibin 	çibin 	“sinek”, çibun “sinek”
+Sm. •u : Tk. •k?/a
+“Sumpf”, u4muh4 “Schlamm der flüsse” 	uma? 	kömek 	> gömek “çamurlu, bataklik yer, alan”, kömük “bataklik”
+“Gewölk” 	umun 	kümün 	“men, person, people, another men, personality”
+“people, folk” 	un 	kün 	“elgün, halk”
+“Grab” 	urugal 	kurgan 	“Grabhügel”, “kurgan, kale”; “hisar, kale”; “kubbe”, “château fort; la partie
+d’une ville entourée d’une enceinte”, “kurgan, mezar” krº. Amga Kurgan
+Sm. d/ : Tk. d/
+“ein opfergefass für Getränke” 	adakur 	adak 	“içki kadehi”, ayak “çanak, kâse, içki kadehi”
+“bad, stinking” 	gid 	id 	“koku, misk”
+“silver or goldsmith” 	kudim 	kuyum 	“kaliba dökme”; “çeyiz”, kuyum “argent”, kuyumçi “orfévre”,
+kuyma “herhangi bir madenden (çekiçle dögme ile degil,
+eritilerek dökme ile) yapilmiº havan, çirakman, çekiç gibi aygitlar”
+“sleep” 	udi 	udi- 	“uyumak”; krº. ud “uyku”
+Sm. d/, • : Tk. n/, •
+“schwer” 	dugud 	yogun 	“kalin, yogun”, “yogun, ºiºkin, kalin”, “kalin, yogun, kaba”
+“to be long, to lengthen, to prolong” 	sud4 	sun- 	“uzatmak, el uzatmak, uzanmak”, sün- “uzamak, uzanmak”
+“knot, tie” 	tugdu 	tügün 	“dügüm”, krº. tüg- “dügümlemek, baglamak”
+“number, voting board”; ºiti “Rechnung, Zahl” 	ºid 	san 	“sayi, sayma, itibar etme”; “sayi, sayma, benzeme”
+Sm. VmV : Tk. VKV
+“Schafhürde”, “Umfriedung, Stall” 	amaº 	agil 	“agil, koyun yatagi; koyun pisligi”
+“Magd” 	geme 	eke 	“büyük kizkardeº”, eged “gerdek gecesi gelin için gönderilen hizmetçi kadin”
+“two (Emesal)” 	imma 	ikki 	“iki”
+“discernment”, “Verstand” 	umuº 	ukuº 	“anlayiº”; “akil, anlayiº”
+Sm. r/ : Tk. z/
+“to spread abroad, to disperse of (a thing)”, “undo
+(especially a spell)”, “to make a hole”, buru “harvest (noun)” 	bur 	boz- 	“bozmak, yikmak”, buz- “bozmak, yikmak,
+harap etmek, viraneye çevirmek, darmadagin etmek”
+“dig, dig quickly” 	?ar 	kaz- 	“kazmak”
+“anger (Emesal)” 	mir 	kiz- 	“to be angry, cross, ill tempered; to be angry, wexed with”, 2. to get hot…”
+kizga- “(kul) kizip uzaklaºtirmak, kakimak”
+“to squezze, to press out (oil, juice)” 	sur 	süz- 	“süzmek”
+Sm. º/ : Tk. l/
+“six” 	aººa 	alti 	“alti”
+“shadow” 	giºge 	kölige 	“gölge”, kölike
+“willow” 	giºkim 	yilgin 	“ilgin agaci, tamariska” ilgin “tamarisk”
+“Fundament” 	uº 	ul 	“duvar temeli”, “temel”
+Sm. ae• : Tk. An•
+“I” 	mae 	men 	“ben”
+“you (sg.)” 	zae 	sen 	“sen”
+“Gott ªulpae” 	ºulpae 	çolpan 	“çoban yildizi”; “Zühre yildizi, çoban yildizi”, “sabah yildizi”; étoile blanche
+qui se montre vers l’aurore et sur laquelle se guident le caravans”
+“Grass, Futter, Pflanze” 	ulia 	öle? 	“sulak yer, bataklik arazi”; “ot, çayir”; “çimenlik”; “vert, endroit riche
+en verdure, prairie”; öle?lik “çayir, otlak”
+Sm. g• : Tk. ?•
+“field” 	aºa(g) 	ala? 	“alan, düz ve açik yer”
+“Grenze, Grenzegebiet” 	bulug 	bulu? 	“köºe, bucak, zaviye”; “köºe, yön, taraf, cihet”
+“daybreak, morning, dawn”, “hell, rein, glänzend” 	dag 	ta? 	“tan, sabah vakti”
+“to be strong, to be vigorous, to have power”,
+“machtig, stark” 	kalag 	kali? 	“kalabalik, çok sürü; kalin, kesif”, “çok, sayisiz, sik, pek kalabalik, koyu”
+Sm. m• : Tk. K•
+“Steppentier” 	alim 	elik 	“geyik” elik kiyik, “geyik”, “ceylan”, “dag keçisi, yaban keçisi”
+“heiss”, “Feuer, Hitze, heiss” 	izim 	isig 	“sicak”; “sicak, sicaklik, iltifat”
+“Licht” 	nurum 	yaruk 	“iºik, aydinlik; parlak”, “aydinlik, parlak”
+“a cattle stable” 	ºurum 	sürüg 	“sürü”
+Sm. CVr/z • : Tk. Cr/çV •
+“Gott”, “god” 	dingir 	te?ri 	“Tanri”, “gök, sema”
+“Hode” 	dubur 	yumru 	“top gibi yuvarlak”, yumri “yumru”, krº. yumurtga “yumurta…,
+insanlarin ve hayvanlarin taºaklari”
+
+    Liste notu:
+
+    ^ Tuna’nin eserinde Sümerce kelime anlamlari, alintilanan kaynaktaki dille verilmiºtir.
+
+Hun dönemi
+
+    Ana madde: Hunca
+
+Hunlara ait birçok kelime Çincede, bu dile özgü biçimleriyle tespit edilmiº ve bu kelime biçimleri farkli araºtirmacilar tarafindan Türkçe olarak açiklanmiºtir. Türkolog Talat Tekin, sözü edilen kelimelerde 17’sini görüºleriyle beraber belirtmiºtir:[43]
+
+Yukaridaki sözlerden son dokuzu Tabgaç dönemine (MS 338-557) aittir. Çincede /r/ sesi bulunmadigi için Türkçe sözlerdeki /r/, ya /l/ ile gösterilir veya hiç gösterilmez: çeng-li / tengri, king-lu / kingrak, wo-lu-to / ordu vb. Çin sülalesi tarihinde, MS 329’da geçen bir olay vesilesiyle, Çin karakterleriyle tespit edilmiº iki cümle vardir. Çin sülalesi tarihi- Çin-ºu, 10 karakterden oluºan bu cümlelerin (beytin) Hunca oldugunu belirttigi gibi her karakterin Çince anlamini da vermiºtir. Olay Çin-ºu’da ºöyle anlatilmiºtir: “Hükümdar ªi Lo, Hsiung-nu’lara mensup Ho kabilesinden geliyordu. Baºka bir Hsiung-nu lideri Liu Yao da ªi Lo’nun rakibi idi. Liu Yao, Kuangçu’nunu on birinci yilinda (329) ordusu ile geldi ve Lo-yang’i kuºatti. ªi Lo, hemen Liu Yao ile savaºmak istiyordu. Fakat buyrugu altindaki kumandanlarin hiçbiri bu fikri uygun bulmadi. ªi Lo, bunun üzerine çok sevdigi ve saydigi Hint rahip Fo-t’u-teng’e daniºti. Fo-t’u-teng daire biçimindeki bir çani salladi ve çikan sese göre Ho dilince ºu kehanette bulundu:[44]
+
+    siu-k’i t’i-li-kang puh-koh kü-t’u-tang
+
+Siu-k’i Ho dilinde “ordu”, t’i-li-kang da “çikmak” anlamindadir; puh-koh Liu Yao’nun unvanidir, kü-t’u-tang da “tutmak, yakalamak” demektir. Bu sözcükler toplu olarak ‘Ordu savaºmak için çikacak ve Liu Yao’yu tutacak’ anlamina gelir.” Bu Çince karakterler, iki ünlü Sinolog tarafindan aºagidaki ºekilde seslendirilmiºtir:
+
+    siog tieg t’iei lied kang b’uok kuk g’iu t’uk-tang (B. Karlgren)
+    sux-keh the-let-kang buk-kok goh-thok-tang (E. G. Pulleyblank)[44]
+
+ªiratori (1902), Ramstedt (1922), Bazin (1948), Gabain (1950), Tekin (1993) gibi Türkologlar, 10 karakterlik bu ibarenin Hun Türkçesindeki biçim ve anlamini bulmaya çaliºmiºlardir. Tamstedt’in buldugu biçim ve anlam ºöyledir:
+
+    Süke taliking (talikang) bügüg (ügeg) tutang = Savaºa çikin, bügüyü (düºman hükümdarini) tutun!
+
+Talat Tekin’in buldugu biçim ve anlam ºöyledir:
+
+    Sü:ke tilikang bugukgi tuktang = Savaºa çikin, Buguk’u (küçük geyigi veya lidercigi) tutun![45]
+
+Gerek Ramstedt, gerek Tekin, Dogu Huncaya ait bu ibarenin l-r (Bulgar-Çuvaº) Türkçesine ait oldugu görüºündedirler; çünkü Köktürkçedeki taºikmak (çikmak) kelimesi burada talikmak / tilikmak biçiminde, yani º yerine l ile geçmektedir. Türkler ve Türk dili için bu ibarenin önemi ºöyle belirtilmiºtir:
+
+    Çinceleºmiº bir söyleniºle de kaydedilmiº olsa, bu iki cümle Türkçe olarak tespit edilmiº bulunan en eski (MS 329) cümlelerdir; üstelik kelimelerin anlamlari da Çince olarak verilmiºtir.
+    Hükümdar ªi-lo’nun Hyung-nu’larin Ho boyundan oldugu ve cümlelerinde de Ho dilinde söylendigi Çin kaynaginda açikça ifade edilmiºtir. Dört kelimelik iki cümle Türkçe olarak okunup açiklanabildigine göre Hyung-nu’larin Türklügünden de ºüphe etmeye gerek yoktur.
+    Hükümdar ªi-lo, büyük Hun hanedani 216’da yikildiktan sonra Kuzey Çin’de kurulan küçük ve kisa ömürlü Hun devletlerinden biri olan 2. Cao devletinin hükümdaridir. ªi-lo, dogu Hunlarindan idi. Demek ki Büyük Hun hanedanindan sonraki küçük Hun devletlerinde de Hun Türkçesi kullanilmaya hiç olmazsa bir süre devam etmiºtir.
+    Bütün Hunlarin olmasa bile en azindan Dogu Hunlarinin Türkçesi bir l-r Türkçesi idi. ª yerine l, z yerine r kullanilmasi daha sonraki Bulgar ve Çuvaº Türklerinin özelligidir. Mogolca da bir l-r dilidir. Bulgar ve Çuvaºlar diºindaki bütün Türklerin dili º-z Türkçesidir.[45]
+
+Eski Türkçe
+
+Bilinen en eski Türk yazitlarindan biri olan Orhun Yazitlari bu dönem Türkçesi ile yazilmiºtir. Eski Türkçe dönemi ile ilgili bilgiye Orhun Yazitlari ve Yenisey Yazitlari'ndan da ulaºilabilir. Bunlarin diºinda Irk Bitig gibi kagida yazili eserler, Eski Uygur dönemi de Eski Türkçe dönemi içinde degerlendirilir. Bu dönem, çagdaº Türk lehçe ve ºivelerinden ayri bir dönem olarak düºünülemez.
+Orta Asya'dan Anadolu'ya
+
+Türkçe, onu kullanan göçer evli ve yerleºik kavimlerin doguda Japonya'ya, batida ise Avrupa'ya dogru hareketiyle yayilmiºtir. Afganistan ve Bati Çin civarinda Mogolca; Rusya, Güney ve Güneydogu Çin bölgesinde Tunguz; eski Sovyetler Birliginin batisinda Türkiye'ye, güneyde ise Iran'a yayilan bir alanda ise Türk dilleri olarak degiºmiºtir. Güneyde bulunan baºlica Türk dilleri Türkiye Türkçesi, Azeri Türkçesi ve Türkmen Türkçesidir. Oguz boylarinin kullandigi Gagavuz lehçeleri ve Iran kaynakli Horasan lehçesi, Türkiye lehçesi ile birlikte bugünkü Türkçenin bölümlerini oluºturmaktadir.[46]
+	« Çigany bodunug bay kiltim, az bodunug üküº kiltim - (Yoksul halki zengin yaptim, az halki çok yaptim) - Orhun Yazitlari[47] »
+	
+Türk yazisini taºiyan en eski belge Kizil kentinde bulunuyor. Yaziliº tarihi 8. yüzyilin baºlarina dayanmaktadir.
+
+Türk Dili Yenisey yazitlari gibi tabletlerden yola çikilarak 1300 yil önceye kadar kaynaklanabildigi gibi yazitlarda kullanilan abecenin geliºmiºligi bu dilin daha eski tarihlere dayandiginin en somut delilidir.[48] Bugünkü Mogolistan'da Orhun (öz adinda Orkun[49]) irmagi yakinlarinda bulunan Kül Tigin ve Bilge Kagan yazitlarindan baºka, dönemin taninmiº veziri Tonyukuk'un da kendisi için diktirdigi Ulan Bator kenti yakinlarindaki iki taº, Orhun Yazitlari'nin baºlica örnekleridir.[50]
+
+Divânu Lügati't-Türk, Türk dilini anlatan ve bu dilin yetisini göstermek için yazilan ilk sözlük yapitidir ve Kaºgarli Mahmud tarafindan 25 Ocak 1072'de yazilmaya baºlanmiº ve 10 ªubat 1074'te bitirilmiºtir. Bu kitap içinde ºu tümce bulunuyor: "Türk dilini ögrenmek çok gerekli bir iº olur". Yapit, Türkçenin varsil dilbilgisi özelliklerini en çarpici biçimde yansitan bir özelliktedir.
+
+Türkçenin kullanim alanini geniºleten bir baºka kiºi, Karahanli Devleti'nin üyesi, ikinci bir Türk ve Türkçe kültür abidesi olan Yusuf Has Hacib'dir. Yusuf Has Hacib, Kutadgu Bilig adli yapiti ile Türk dil birliginin diger önemli yazili temelini atti. 1069-1070 yillarinda bu Türkçe yapiti tamamladi.
+
+Ahmed Yesevi 12 yüzyilda Türk dilinde yazdigi "hikmet" adli ºiirleri bir araya getiren Türk tasavvuf edebiyatinin bilinen en eski örneklerini içeren kitap ile Türkçenin kullanimini etkiledi.
+
+13/14.yy. yaºamini süren Yunus Emre Türkçenin, özellikle "Türkçe ºiir dilinin" temel ustasi ve abidesi olmuºtur. Yunus Emre'nin edebiyat tarihi bakimindan, önemli bir yani da Anadolu'da, Türkçe ºiir dilinin öncüsü olmasi ve tasavvuf sorunlarini yalin ve kolay anlaºilir bir dille söyleyiºi nedeniyledir. ªiirlerinin ölçüsü, Türkçenin ses yapisina uygun aruz olmakla birlikte söyleyiºi akici, sürükleyici bir nitelik taºir. Tasavvufun en güç anlaºilir kavramlarini, Türkçenin ses yapisina uygun biçimde dile getirir; ºiirinde, duygu ve düºünce birliginden oluºan bir derinlik görülür.
+
+Haci Bayram Veli 14/15. yüzyilda Anadolu'da yaºamini süren Türk mutasavvif ve ºair olarak eserlerini Türkçe olarak yazdi ve Türkçenin kullanimini Anadolu’da önemli biçimde etkiledi. Haci Bayram Veli, Anadolu'da dil ve kültür birliginin saglanmasi için Türkçe eserler yazilmasinda Leme’at ve Gülºen-i Raz gibi eserlerin Türkçeleºtirilmesinde etkili olmuº, kendisi de halkin anlayacagi dilden Ahmed Yesevi gelenegine uygun olarak ºiirler yazmiºtir. Devrinde Arapça ve Farsça eser vermek revaçta iken, Haci Bayram Veli’nin halk ile iliºki kurabilecegi Türkçeyi tercih etmesi belli bir olgunluga iºaret eder. Bu olgunluk Anadolu’da dil birliginin saglanmasi ve Türk kültürünün egemen olmasidir. Türkçecilik akimi yandaºlarini da etkilemiº, bu sufiler özellikle Türkçe yapitlar vermiºlerdir.
+
+Yazicioglu Muhammed, Eºrefoglu Rumi gibi ögrencilerinin Envaru’l-Aºikin, Muhammediye, Müzekkinü’n-Nüfus gibi eserleri Anadolu'da yillarca kolaylikla okunmuº, halkin elinden düºmemiºtir. Ayrica Akºemsettin, (1389/1390 - 1460), 15. yüzyilin en büyük sufilerinden biridir ve Türkçe ile, (örnek olarak Hayatin Maddesi ve Tip adinda) çeºitli eserler ortaya koymuºtur.
+
+Türkçe ait oldugu Altay dil ailesinin en çok kiºi tarafindan kullanilan dilidir. 5500-8500 yillik bir geçmiºi oldugu sanilmaktadir. Genel Türkçenin Türkiye, Azerbaycan, Türkmenistan, Tataristan, Özbekistan, Baºkurdistan, Nogay, Kirgizistan, Kazakistan, Yakutistan, Çuvaºistan, Güney Sibirya gibi bölgeleri vardir.
+
+Yazili Türkçe üzerine kaynaklarda (M.Ö. 1766 yilik Çin kroniginde) ilk kez tutanaklarda tanri, ordu, kiliç ve kut (mutluluk) sözcükleri bulunmaktadir.
+
+Mogolca, Mançu-Tunguz, Korece ve Japonca ile yakin iliºkisi vardir. Bazi bilim adamlari, iliºkinin ödünç alinmiº sözcüklerden kaynaklandigini ve temelli olmadigini iddia etmiºtir. Son zamanlarda yapilan karºilaºtirmali çaliºmalar, bu tezin hatali oldugunu, Türkçe ve Japoncanin temel iliºkilerinin bulundugunu kanitlamiºtir.[51]
+Dünyada Türkçe konuºanlarin dagilimi
+Koyu renkle gösterilen ülkelerde Türkiye Türkçesi konuºanlarin nüfusu en fazladir.
+Göktürkçe
+Türük Oguz begleri, bodun eºidi?. Üze te?iri basmasar, asra yer telinmeser, Türük bodun ili?in törü?in kim artati udaçi erdi?[52]
+Türkiye Türkçesi
+Türk Oguz beyleri, boylari iºitin; üstte gök basmasa, altta yer delinmese, Türk boylari, ilini töreni kim bozabilecek idi?
+Dil Devrimi
+
+Türkiye Cumhuriyeti'nin uluslaºma sürecini tamamlayan Türk Devrimi'nin ya da Atatürk devrimlerinin en önemli basamaklarindan ilki, Cumhuriyet'in kuruluºundan 5 yil sonra yapilan harf devrimi, ikincisi de Cumhuriyet'in kuruluºundan 9 yil sonra yapilan Dil Devrimi'dir.
+
+Dil Devrimi kisaca, Türkçe ile düºünmeyi, Türkçenin bütün bilim, sanat ve teknik kavramlari karºilayacak yolda geliºmesini saglayan eylemdir.
+
+Dil bilimci Kâmile Imer "Dil Devrimi nedir?" sorusunu ºöyle yanitliyor:
+
+    Dili daha çok yerli ögelerin egemen oldugu bir kültür dili durumuna getirmek amaciyla yapilan ve devletin destegini kazanmiº olan ulus çapindaki dili geliºtirme eylemine 'dil devrimi' adi verilmektedir.[53]
+
+Her insan düºüncesini sözcükler arasinda bag kurarak oluºturdugu tümcelerle aktarir, bu açidan bakinca Dil Devrimi ayni zamanda düºüncenin yenileºmesidir. "Dil Devrimi'nin gerçekleºmesini saglayan etkenler, ayni zamanda onun amaçlarini ortaya koymaktadir. Uluslaºma etkeni dili yabanci ögelerden arindirma amacini, digeri de kültür dili durumuna getirmeyi amaçlamaktadir. Bu amaçlarin olumlu sonuçlar vermesi, ortaya çikan ürünlerin toplumun mali olmasina baglidir. Devletin destegi olmaksizin dilde yapilan devrim, bireysel bir eylem olarak kalir; topluma mal olmaz. Dil Devrimi'nin hazirlik evresindeki çabalar, bunun en güzel örnekleridir. Türk Dil Devrimi'nin hazirlik evresi olarak nitelendirebilecegimiz ve Tanzimat Fermani ile baºlayan dönemdeki dili yalinlaºtirma istemi toplumu kapsayamamiºtir. Ancak, Cumhuriyet'ten sonra, 1932 yilinda devletin öncülügünde Türk Dili Tetkik Cemiyeti'nin kuruluºuyla dilde yapilan yenilikler, ulus çapinda bir eylem olarak topluma mal olmaya baºlayagelmiºtir.."[54]
+
+Türkçe, yapi bakimindan çok varsil bir dil olmakla birlikte, dünya üzerinde de hâlâ çok konuºulan bir dildir. Bu varsillik her ne kadar içinde yabanci sözcükler bulundursa da, bu durum dilde hiçbir bozukluga yol açmamiºtir. Bunun nedeni de, Osmanli'nin, zamaninda barindirdigi azinliklarin olmasidir. Çünkü bu nedenle dilde çok fazla yabanci "sözcük aliº-veriºleri" olmuºtur.
+Osmanli Türkçesi 	Türkiye Türkçesi 	Ingilizce 	Açiklama
+müselles 	üçgen 	triangle 	Üç (“3”) ve çok eski klasik Türkçe gen ("yan") sözcügünden türetiliyor.
+tayyare 	uçak 	airplane 	Uçmak eyleminden türetilerek yapiliyor.
+nispet 	oran 	ratio 	Modern oran sözcügü klasik Türkçe or- “kesmek” sözcügünden türetiliyor.
+ºimal 	kuzey 	north 	“Soguk, karanlik, gölge” anlamindaki kuz sözünden türetiliyor.
+teºrinievvel 	ekim 	October 	Ek- eylemi; ekim hareketinden türetiliyor. Türkiye’nin çeºitli bölgelerinde sonbaharda ekim yapiliyor.
+asel 	bal 	honey 	Arapça asel sözcügü, Türkçe bal sözcügü ile düzenleniyor.
+Türkçenin alfabeleri
+Atatürk yeni Türk alfabesini tanitirken, Kayseri, 20 Eylül 1928. (Fransiz L'Illustration dergisi)
+
+    Ana madde: Türk dil alfabesi
+
+Türkler, dünyada en çok alfabe degiºtiren kavimlerdendir. Bunun nedenlerinin baºinda, Türklerin Miladin çok öncesinden beri, dünyanin çeºitli bölgelerinde yaºamalari ve çeºitli kültür çevrelerini oluºturmalaridir. Türkiye Türkçesi için 1 Kasim 1928 tarihinde kabul edilen Latin esasli yeni Türk alfabesine gelinceye dek, Türkçe çeºitli alfabelerle yaziya geçirilmiºtir. Bu çeºitli alfabeler ºunlardir:
+Orhun Alfabesi
+
+Türkçenin bilinen ilk alfabesi Orhun yazitlari'nda da kullanilan ve yaygin adiyla Göktürk Alfabesi olarak bilinen abecedir (Köktürk iºaretleri, Runik alfabe vb.). Bu alfabe dogu ve batidaki Hun Kaganligi’nin devrinden, 1. yüzyildan beri Göktürkler devrine ve kullanim sikligi düºse de, Uygur devleti devrine dek (MS. 10. yüzyil) kullanilmiºtir. Örnek: Tunga tigin.JPG
+Uygur Alfabesi
+
+Türkçenin bütün yazi çeºitleri içinde en çok kullanilmiº olanidir. Sogut yazisinin yakin akrabasi olan ve Uygur Türkleri tarafindan Türkçeye uyarlanip yüzyillarca kullanilan bir alfabedir. Divanü Lügati’t-Türk’te Kaºgarli Mahmud, Uygur alfabesini, “Türk alfabesi” adiyla anmaktadir.[55]
+Arap asilli Türk alfabesi
+
+9. yüzyil civarlarindan günümüze dek (Uygur Türkleri hâlen bu alfabeden kaynaklanan bir alfabe kullanmaktadirlar) bu alfabe kullanilmiºtir. Müslümanligi kabul etmeye baºlayan Türk boylari, bu yüzyillar içinde, ardi sira bu alfabeyi kullanmaya baºlamiº ve 13. yüzyil dolaylarinda artik bu alfabe, Türk boylari arasinda ortak bir alfabe özelligi kazanmiºtir.
+
+Osmanli Imparatorlugu, bu alfabeyi en yayginlikla kullanan Türk devletidir. Üzerinde birtakim düzenlemeler ve eklemeler yapilarak Osmanli alfabesi de denilen alfabe kullanildi.
+
+Türkçe için kullanilan bu alfabeye Arap alfabesi denmemesinin sebebi, Arapçada bulunmayan “j, ç, ?, p” gibi sesleri içermesidir.
+Ermeni harfli Türkçe
+
+Osmanli Devleti sinirlari içinde yaºayan entelektüellerin, ifade dili olarak Türkçeyi kullanan Ermenilerin bir kisminin günlük hayatlarinda kullandigi yazi biçimidir. Bu ºekilde yazilmiº oldukça fazla eser bulunmaktadir. Bu eserlere Türkiye'nin çeºitli kütüphanelerinde ulaºmak mümkündür. Bunun yaninda Paris ve Venedik'in yaninda bulunan St. Lazar adasinda da bu eserlere ait kütüphaneler bulunmaktadir.[56][57][58][59]
+
+Anadolu Ermenicesi'nin ya da diger adiyla Bati Ermenicesi'nin alfabesi kullanilir. Ermeni diline özgü olan ? ? ? harfleri ise Türkçe yazarken kullanilmaz.
+
+Destan kitabindan bir yazi örnegi;
+
+??????, ??????, ?????? ?????
+
+?????? ??????, ????? ?????
+
+?????? ??????? ??? ???? ????
+
+?????? ?????? ??????? ??? ??
+Latin asilli Türk alfabesi
+
+1 Kasim 1928 tarihinde, eski Arap asilli Türk alfabesinin yerine, Latin yazisindan Türkçe için uyarlanan bu 29 harfli alfabe kabul edilmiºtir.
+
+Alfabede 29 harf bulunur. Ancak 1990'li yillarda toplanan bir uluslararasi Türkçe kurultayinda Türkiye abecesi /?/ (genizcil n sesi), /?/ (açik e sesi), /q/ (kalin k sesi), /w/ (sert g, v sesi), /x/ (sert h sesi), /?/ (ön damaksil, ny sesi) gibi harflerin de katilmasi ile oluºacak Ortak Türk Abecesinden, diger Türk Ülkelerinin kendi abecelerini oluºturmasi ile karara baglanmiºtir.[60][61][62] ªu an, Türk Dünyasi içinde, Türkiye, Kuzey Kibris Türk Cumhuriyeti, Azerbaycan, Türkmenistan, Özbekistan, Kosova, Makedonya ve genel Balkanlar’daki Türkçe kullanimlari, Latin esasli alfabelerle yapilmaktadir. Bunlar içinde Türkiye, Kuzey Kibris Türk Cumhuriyeti ve Balkanlar’da ayni alfabe kullanilir. Azerbaycan Türk alfabesinde 29 harfin yaninda ayrica x, q, ? harfleri bulunur. Türkmenistan, Özbekistan alfabelerinde de kendi içlerinde bazi eklemeler ve farkli tercihler bulunmaktadir. Temel olarak bu Türk devletlerinin hepsi Latin asilli alfabeye geçmiºlerdir.
+
+Bagimsiz Kazakistan ve Kirgizistan ile Rusya Federasyonu'ndaki Türk boylari, Kiril asilli alfabeler kullanmaktadirlar.
+
+Türk Alfabesi :
+
+        a - A
+
+	
+
+        b - B
+
+	
+
+        c - C
+
+	
+
+        ç - Ç
+
+	
+
+        d - D
+
+	
+
+        e - E
+
+	
+
+        f - F
+
+	
+
+        g - G
+
+	
+
+        g - G
+
+	
+
+        h - H
+
+	
+
+        i - I
+
+	
+
+        i - I
+
+	
+
+        j - J
+
+	
+
+        k - K
+
+	
+
+        l - L
+
+	
+
+        m - M
+
+	
+
+        n - N
+
+	
+
+        o - O
+
+	
+
+        ö - Ö
+
+	
+
+        p - P
+
+	
+
+        r - R
+
+	
+
+        s - S
+
+	
+
+        º - ª
+
+	
+
+        t - T
+
+	
+
+        u - U
+
+	
+
+        ü - Ü
+
+	
+
+        v - V
+
+	
+
+        y - Y
+
+	
+
+        z - Z
+
+	
+
+    Aslinda kanuna göre “i” harfi, “i” harfinden önce gelmesine ragmen yaygin ve yerleºmiº olan siraya göre önce “i”, sonra “i” gelmektedir.[63]
+
+Türkiye Türkçesi Agizlari
+
+    Ana madde: Türkiye Türkçesi agizlari
+
+Agiz Bölgeleri
+
+Türkiye Türkçesi, tarihî Osmanli Imparatorlugu cografyasinda günümüzde konuºulmaya devam eden Türk agizlari bakimindan bazi gruplara ayrilir. Söz konusu gruplandirma için Anadolu ve Rumeli agiz bölgelerinden söz edilir.
+Anadolu Agiz Bölgesi
+
+Türkiye Türkçesinin kollarindan Anadolu kolu ana agiz gruplari bakimindan Dogu Grubu, Kuzeydogu Grubu ve Bati Grubu olarak üçe ayrilir.[64] Prof. Dr. Leylâ Karahan'in Anadolu Agizlarinin Siniflandirilmasi adli çaliºmasi Anadolu agizlari üzerine yapilmiº en geniº akademik çaliºmadir.
+
+Anadolu agiz bölgesi, Türkiye’nin Anadolu topraklarini içerir.[64] Ilk aºamada sinir bu ºekilde belirtilmiº ve incelenmiºtir.
+Dogu Grubu
+
+1. Grup: Agri, Van, Muº, Bitlis, Bingöl, Siirt, Diyarbakir, Mardin, Hakkâri, Urfa (Birecik, Halfeti hariç), Palu, Karakoçan agizlari.[65]
+
+2. Grup: Kars (Ardahan, Posof hariç), Erzurum, Aºkale, Ovacik, Narman, Pasinler, Horasan, Hinis, Tekman, Karayazi, Erzincan, Tercan, Çayirli, Kemah, Refahiye, Gümüºhane agizlari.[65]
+
+3. Grup: Ardahan, Posof , Artvin, ªavºat, Yusufeli, Ardanuç, Oltu, Tortum, Olur, ªenkaya, Ispir agizlari.[65]
+
+4. Grup: Kemaliye, Iliç (Erzurum), Elâzig, Keban, Baskil, Agin, Harput, Tunceli agizlari.[65]
+Kuzeydogu Grubu
+
+1. Grup: Trabzon, Rize, Kalkandere, Ikizdere, Gündogdu, Büyükköy agizlari.[66]
+
+2. Grup: Çayeli, Çamlihemºin, Pazar, Ardeºen, Findikli agizlari[66]
+
+3. Grup: Arhavi, Hopa, Borçka, Kemalpaºa, Muratli, Ortacalar, Göktaº, Camili, Meydancik, Ortaköy agizlari.[66]
+Bati Grubu
+
+1. Grup: Afyonkarahisar, Antalya, Aydin, Balikesir, Bilecik, Burdur, Bursa, Çanakkale, Denizli, Eskiºehir, Isparta, Izmir, Kütahya, Manisa, Mugla, Uºak, Nallihan agizlari.[67]
+
+2. Grup: Izmir, Sakarya agizlari.[67]
+
+3. Grup: Bolu (Göynük, Mudurnu, Seben, Kibrisçik hariç), Zonguldak, Bartin, Kastamonu (Tosya hariç), Ovacik, Eskipazar agizlari.[67],
+
+4. Grup: Beypazari, Çamlidere, Kizilcahamam, Güdül, Ayaº, Göynük, Mudurnu, Seben, Kibrisçik, Çankiri (Ovacik, Eskipazar, Kizilirmak hariç), Tosya (Kastamonu), Boyabat, Çorum, Iskilip (dag köyleri hariç), Bayat, Kargi, Osmancik agizlari.[67]
+
+5. Grup: Sinop (Boyabat hariç), Samsun (Havza, Ladik hariç), Ordu (Mesudiye hariç), Giresun (ªebinkarahisar ve Alucra hariç), ªalpazari agizlari.[67]
+
+6. Grup: Havza, Ladik, Amasya, Tokat, Sivas (ªarkiºla ve Gemerek hariç), Mesudiye, ªebinkarahisar, Alucra, Malatya, Hekimhan, Arapkir agizlari.[67]
+
+7. Grup: Tarsus, Eregli, Konya merkez ilçesinin bazi köyleri, Adana, Hatay, Kahramanmaraº, Gaziantep, Adiyaman, Darende, Akçadag, Doganºehir, Birecik, Halfeti agizlari.[67]
+
+8. Grup: Ankara, Haymana, Balâ, ªereflikoçhisar, Çubuk, Kirikkale, Keskin, Kalecik, Kizilirmak, Çorum (merkez ilçe ile güneyindeki ilçeler), Kirºehir, Nevºehir, Nigde, Kayseri, ªarkiºla, Gemerek, Yozgat agizlari.[67]
+
+9. Grup: Konya (merkez ilçesinin bazi yöreleri ve Eregli hariç), Mersin (Tarsus hariç) agizlari.[67]
+Rumeli Agiz Bölgesi
+
+Türkiye Türkçesinin kollarindan Rumeli kolu ana agiz gruplari bakimindan Dogu Rumeli ve Bati Rumeli olarak ikiye ayrilir.[68] Ayrica bu agiz yörelere göre [69] Gagavuzca ile benzer ve ayni özellikler taºimaktadir.
+Bati Rumeli
+
+Bati Rumeli kolunun özellikleri Gyula Németh’in “Bulgaristan Türk Agizlarinin Siniflandirilmasi Üzerine” adli makalesinde, 8 maddede gösterilmiºtir. Sonrasinda birçok çaliºmada da bu madde açiklamasi benimsenmiº, uygulanmiºtir. Bati Rumeli sahasinin cografi sinirlari Bulgaristan’da Tuna’nin hemen güneyindeki Lom’dan doguya dogru Vraça, Sofya, Samokov’dan doguya dogru ilerleyip Köstendil’e uzanir. Ayrica Makedonya, Arnavutluk, Bosna-Hersek ve Sirbistan'da Adakale'yi uç olarak kapsar.[68] Kosova da Bati Rumeli Türkçesinin içinde yer alir.
+Dogu Rumeli
+
+Bati Rumeli’nin dogusunda kalan bütün alandir. Bulgaristan’da Lom, Vraça, Sofya, Samokov ve Köstendil ºehirlerinin dogusundan itibaren ülkenin tamami, Yunanistan, Makedonya’nin güney kesimleri ve Türkiye’nin Trakya’si (Dogu Trakya) bu sahanin içindedir.
+Örnek Metinler
+Temsilî ªekiller
+Yazi Dili 	Bati Rumeli
+Kuzey Makedonya-Kosova 	Dogu Rumeli
+Rodoplar (Bulgaristan-Yunanistan) 	Karadeniz 	Güneydogu Anadolu 	Ege
+gidiyorum 	gideym/cideym 	gityirin 	kitéyrim/cideyrum 	gidirem 	gidiveyom
+agladigim kadar 	agladigim ka' 	agladigim gida(ni) 	aladugum kadar 	agladigim gadar 	agladigim gada
+görmüº 	gürmiº/cürmiº 	g?müº 	körmiº 	görmiº 	görmüº/g?müº
+güzel kiz 	güzel/cüzel kiz 	güzel giz 	küzel kiz 	gözel giz 	güzel giz
+ne yapacakmiº? 	n’yapacak imiº? 	ni yapçamiº? 	n'abaçamiº? 	ne yapcahmiº? 	n’apivecemiº?
+yagmura mi bakiyorsun? 	yagmura mi bakaysin 	yagmira mi bakyisin? 	yamora mi pakayisun? 	yagmira mi bagiyorsun 	yagmira mi bakiyon
+koºacagim 	koºacim/koºacagim 	kaºçan 	koºacagum/koºeceem 	goºacagam 	goºçem
+
+Not: ªekiller temsilîdir. Seslerde degiºiklik olabilir.
+Türkçenin Dil Bilgisi
+Türkçenin Özellikleri
+
+    Türkçe söz varliginin bir bölümü; Türkçe asilli sözcükler, Arapça ve Farsçadan geçmiº sözcüklerden oluºmaktadir. Arapça ve Farsçadan gelmiº sözcüklerin bir bölümü o kadar Türkçeleºmiºtir ki Arap veya Fars dilindeki durumundan oldukça farklidir ve kimi sözcüklerin anlami da farklilaºmiºtir.
+    Türkçede dogru tümce yapisi, özne, tümleç, yüklem biçimindedir. Ancak Türkçe esnek bir dildir.[70] Bu yüzden günlük yaºamda devrik tümceler siklikla kullanilir. Örnegin, "Bugün yazili sinav olacagiz." tümcesine eºdeger "Yazili sinav olacagiz, bugün. tümcesi kurulabilir. Bu tür tümceler daha ºiirsel anlatima sahiptir.
+    Türkçede kisa yoldan anlatim ön plandadir. Örnegin, "sobayi yak" derken "sobanin içindeki odun ve kömürleri yak" anlamindadir. Bunun dilbilgisindeki adi "ad aktarmasi"dir.[71]
+    Türkçede kiºi adillari alti tanedir. Örnegin Türkiye Türkçesinde, ben, sen, o, biz, siz, onlar biçimindedir. Türkçedeki önemli bir baºka özellik, "siz" adilinin kibar olarak 2. tekil kiºiyi (sen) belirtmesidir.
+
+Türkçede ses evrimi
+
+Türk dillerinde zaman içinde degiºen belli baºli sesler vardir. Ilk Türkçeden bu yana degiºimi olagan olan evrimler oldugu gibi, degiºimi olagan olmayanlari da vardir.[72]
+
+    Eski Türkçede ilk ve son sesteki -b- ve -b sesleri -w- ve -w seslerine dönüºür. Buna bir örnek: eb (Göktürkçe) › ew (Uygurca › ev (Oguzca) Ayrica burada görüldügü gibi, -b sesinden gelen -w sesleri zamanla -v seslerine dönüºebilir. Baºtaki b- sesleri w- sesine dönüºmez.
+    Türkçedeki en büyük ses degiºimlerinden biri d>y degiºimidir. Eski Türkçede bulunan neredeyse bütün -d- ve -d sesleri, -y- ve -y seslerine dönüºmüºtür, buna ragmen d- sesleri kalmiºtir. Bu degiºme birçok Türk diyalektinde gerçekleºmiºtir. Buna örnek: édgü (Eski Türkçe) › éyü › iyi, adri (Eski Türkçe) › ayri (Oguzca)[72]
+    Türkiye Türkçesinde ?>n dönüºümü vardir. Ancak bu dönüºüm yalnizca Bati Türkçeleri içindir. Balkan Türkçesi, Azerbaycan Türkçesi, Türkiye Türkçesi ve diger bati lehçeler diºinda /?/ sesleri korunmuºtur ve hâlâ kullanilmaktadir. (örnegin: geliniz (Türkiye Türkçesi), geli?iz Türkmence) Bu evrime örnekler: bi?- › bin-, so? › son, be?iz › beniz... Ayni zamanda, yine bati lehçeleri için olan ?>m dönüºümü vardir, ancak bu evrim asla kökte olmaz. her zaman türemiº veya birleºik sözcüklerde olur. Örnegin: ko?ºu › komºu, to?uz › domuz, kö?lek › gömlek[72]
+    Türkiye Türkçesinde é>i, i>é, é>e, e>i sesleri birbirine dönüºür. Bu üç ses arasinda en açik olani /é/ (/?/), en kapali olani ise /i/ (/i/) Bu dönüºümlerden e>i dönüºümü direkt degildir. Yani ses direkt e>i biçiminde olmaz. Buradaki /e/ sesi önce /é/ daha sonra /i/ sesine dönüºür. Ancak bu evrim çok hizli oldugundan yazili kaynaklarda belirtilmez. Bu yüzden böyle geçer. Bu evrime örnekler: éyi › iyi; bir- › ver-; béº › beº; eºit- › iºit-[72]
+    Türkiye Türkçesinde k- sesleri g- seslerine dönüºür. Örnegin: kel- › gel- , kit- › git- , kök › gök[72]
+    Türkiye Türkçesinde t- sesleri d- seslerine dönüºür. Örnegin: tag › dag, til › dil, tök- › dök-[72]
+    Türkiye Türkçesinde b- sesleri v- seslerine dönüºür. Örnegin: bar- › var, bir- › vir- › ver- , bar › var[72]
+    Türkiye Türkçesinde b- sesleri p- seslerine dönüºür. Örnegin: barmak › parmak, büre › pire, bu?ar › pinar[72]
+    Türkiye Türkçesinde -g sesleri -g seslerine, sonra -v seslerine dönüºür. Örnegin: kog- › kog- kov-, tög- › dög- › döv-[72]
+    Türkiye Türkçesinde ü sesleri i seslerine dönüºür. Örnegin: düz- › diz- , büre › pire[72]
+    Türkiye Türkçesinde o sesleri u seslerine dönüºür. Örnegin: oyan- › uyan- , yokaru › yukari, bodun › budun › buyun[72]
+    Türkiye Türkçesinde ö sesleri ü seslerine dönüºür. Örnegin: közel › güzel, kökerçin › güvercin[72]
+    Türkiye Türkçesinde ü sesleri e seslerine dönüºür. Örnegin: törü › töre, töpü › tepe[72]
+    Türkiye Türkçesinde u sesleri a seslerine dönüºür. Örnegin: boguz › bogaz[72]
+
+Dilbilgisi
+
+Bir dili doguº, geliºme, yapiliº özellikleri vb. gibi tüm yönleriyle inceleyen ve bagli oldugu kurallari ortaya koyan bilim. Dilbilgisi, sesten tümceye kadar tüm dilbirliklerini yapi, anlam ve görev bakimindan inceler.
+
+Dilbilgisi, çeºitlerine göre bazi gruplara ayrilir: Bütün dillerdeki ortak ilkeleri ortaya koyan kismina “genel dilbilgisi”, dil olaylarinin aslini ve dilin tarihî durumunu araºtiranina “tarihî dilbilgisi”, diller ve lehçeler arasindaki benzerlikleri inceleyerek bu diller ve lehçeler arasinda ilgi kuranina “karºilaºtirmali dilbilgisi” denir.
+
+Dilbilgisi, en eski bilimlerdendir. Grekçeden Lâtinceye ve oradan da diger dillere yayilmiºtir. En eski dilbilgisi bilginlerinin I.Ö. 4. yüzyilda Hintler oldugu bilinir. Ancak Bati'da dilbilgisinin kurucusu olarak Aristoteles kabul edilir. Ilk dilbilgisi kitabini yazan ise I.Ö. 1. yüzyilda “Dilbilgisi Sanati” adli yapitiyla filolog Dionisos'tur.
+
+Daha sonra Romali Donatus'un (I.S. 4. yüzyil) yazdigi dilbilgisi kitabi yillarca Bati’da kaynak kitap olmuºtur. Türkçenin ilk dilbilgisi kitabi olarak Kaºgarli Mahmut'un (11. yüzyil), bugün elimizde bulunmayan “Kitâbu Cevâhirü’n-nahv” adli yapiti gösterilmektedir.
+
+Türkçe yazilmiº ilk dilbilgisi kitabi Bergamali Kadri'nin “Müyessiretü’l-Ulum” (1559) adli yapitidir. Yapitta örnekler Türkçedir, fakat dil kurallari Arapçanin kurallarina uydurulmuºtur. Tanzimat döneminde baºta Ahmet Cevdet (1851) ve Fuat paºalarin (1865) kitaplarinda Osmanlicanin yapisi gözönünde tutulmuºtur. Meºrutiyet'ten (1908) sonra, Hüseyin Cahit’in “Sarf ve Nahiv” adli eserinin dilbilgisi konusunda önemli bir yeri vardir. Bu kitapta Fransizca dilbilgisinin etkisi görülür. Cumhuriyet döneminin ilk esasli dilbilgisi kitabi, Ibrahim Necmi Dilmen’in “Türkçe Gramer” (1939) adli yapitidir. 1940'tan sonra pek çok Türkçe dilbilgisi kitaplari yazilmiºtir. Bunlardan önemli olanlari: Tahsin Banguoglu’nun “Ana Hatlariyla Türk Grameri” (1940), Tahir Nejat Gencan’in “Dilbilgisi” (1950-1954) ve Muharrem Ergin’in “Türkçe Dil Bilgisi”dir (1958).
+Sözcük türeme farki
+
+Özelligi geregi sona eklemeli bir dil oldugundan Türkçede basit bir kökten çok sayida sözcük türetmek mümkündür. Bu özelligin bulunmadigi Hint-Avrupa Dilleri kolundan gelen Ingilizce, Almanca ve Ispanyolca aºagida Türkçe ile karºilaºtirilmiºtir.
+Türkiye Türkçesi 	Ingilizce 	Almanca 	Ispanyolca
+Göz 	eye 	Auge 	ojo
+Gözlük 	eyeglasses 	Brille 	gafas
+Gözlükçü 	optician: someone who sells glasses 	Augenoptiker, Brillenverkäufer 	óptico, vendedor de gafas
+Gözlükçülük 	the business of selling glasses 	Das Geschäft des Brillenverkaufes,
+Der Beruf des Augenoptikers 	óptica, tienda donde se venden gafas
+
+Ve eylemden türeme:
+Türkiye Türkçesi 	Ingilizce 	Almanca 	Ispanyolca
+yat- 	lie down 	lege (dich) hin, schlafe! 	acostarse
+yatir- 	lay down [that is, cause to lie down] 	lege an 	acostar [a alguien]
+yatirim 	instance of laying down: investment 	Investition 	inversión
+yatirimci 	depositor, investor 	Kapitalanleger, Investor 	spónsor, inversor
+yatirimcilik 	to be an investor 	ein Investor sein 	ser un inversor
+
+Yeni sözcükler ayrica var olan iki eski sözcügün birleºmesi ile de yaratilir. Bu, Türkçe ve Almanca ile Ingilizcenin paylaºtigi bir ayriklik benzerligi oluºturur. Altta bazi örnekler:
+Eklerle tümce oluºturma
+
+Diger yaygin olarak konuºulan dillerle karºilaºtirildiginda, daha az sayida sözcük ve harf ile daha çok bilgi aktarmak olanaklidir. Diger pek çok dilde olmayan bir özellige göre, bir sözcük köküne ekler ekleyerek, tek sözcüklü tümce oluºturulabilir.
+Türkiye Türkçesi 	Ingilizce 	yeni sözcükleri oluºturan temel sözcükler 	Açiklama
+pazartesi 	Monday 	pazar ("Sunday") ve ertesi ("after") 	pazardan sonra
+bilgisayar 	computer 	bilgi ("information") ve say- ("to count") 	bilgi sayici
+gökdelen 	skyscraper 	gök ("sky") ve del- ("to pierce") 	gök delici
+baºparmak 	thumb 	baº ("prime") ve parmak ("finger") 	birincil parmak
+önyargi 	prejudice 	ön ("pre/proto") ve yargi ("splitting; judgement") 	ön yargi
+kahvalti 	breakfast 	kahve ("coffée") ve alt
+Türkiye Türkçesi 	Ingilizce 	Almanca 	Ispanyolca 	Hollandaca
+ev 	house 	Haus 	casa 	huis
+evde 	at home, within the house 	zu Hause 	en casa 	thuis
+eviniz 	your house 	Ihr Haus 	su casa 	jullie huis
+evinizde 	at your house 	in Ihrem Hause 	en su casa 	in jullie huis
+evinizdeyiz 	we are at your house 	wir sind in Ihrem Hause 	estamos en su casa 	wij zijn in jullie huis
+Büyük ve küçük ünlü uyumu
+
+Türkiye Türkçesinde Büyük Ünlü Uyumu ve Küçük Ünlü Uyumu olarak bilinen iki ünlü uyumu vardir. En yaygin ve kapsamli olan, Büyük Ünlü Uyumudur. Küçük Ünlü Uyumu, Türkiye Türkçesinde genelde geçerli iken, diger Türk ºive ve lehçelerinde bu uyum pek aranmaz zira Küçük Ünlü Uyumu, ileri ve keyfî bir uyum düzeyidir.
+
+Büyük Ünlü Uyumu konusunda kural diºi kalan çok az söz mevcuttur ki, bunlarin büyük bir kismi yabanci kökenli sözcüklerdir. Istisna oluºturan birkaç söz de, köken bakimiyla Türkçe olup uyum diºina çikan sözlerdir: elma (<< alma); ücra (<< uçra) gibi. Bu kurala göre Türkçede bir sözcügün ilk hecesinde kalin bir ünlü (a, i, o, u) varsa, izleyen hecelerde de kalin heceler; ince bir ünlü (e, i, ö, ü) varsa, izleyen hecelerde de ince ünlüler yer alir. Küçük ünlü uyumunda sözcügün ilk hecesi düz ünlüyle baºlamiºsa (a,e,i,i) diger hecelerde düz ünlüyle devam eder.
+
+Örnek:
+
+    büyük ünlü uyumu : balta - baltalar ; ari - arilar ; top - toplar ; uçak - uçaklar
+    küçük ünlü uyumu : ev - evler ; istek - istekler ; örtü - örtüler ; ünlü - ünlüler
+
+Türkçe Sesbilimi (fonolojisi)
+
+Türk Dili'nde iki adet ses ya da fonem grubu vardir. Bunlardan ilki agizdan sürekli ve engelsiz çikan ünlü seslerdir. Türkçede dokuz adet ünlü ses bulunur. Bunlar /ä/, /e/, /?/, /i/, /?/, /o/, /o/, /u/, /y/ sesleridir. Bunlardan beºi ince, dördü kalindir. Bunlardan, /?/, /e/, /i/, /o/ ve /y/ sesler, ince seslerdir. Diger /ä/, /?/, /o/ ve /u/ sesleri ise kalin seslerdir. Türkçede bulunan diger bir ses grubu ise ünsüz seslerdir.
+Ünsüz sesler
+Türkçe Standart Ünsüz Sesler 	Dudaksi 	Diºcil 	Yari Diºcil 	Ön Damaksil 	Arka Damaksil 	Girtlaksil
+Genizcil 	m 	n 		? 	? 	
+Süreksiz 	p 	b 	t 	d 	t?? 	d?? 	k? 	g? 	k 	g 	
+Sürtünmeli 	f 	v 	s 	z 	? 	? 	? 	? 	q 	? 	h 	
+Sürekli 	w 	? 	l 	j 			
+Titrek 		? 				
+
+Türk dilleri arasinda bazi ses farkliliklari vardir. Örnegin Arka Damaksil Genizcil n sesi olan [?] sesi Türkiye Türkçesinde, Azerbaycancada ve bazi diger Türk dillerinde yoktur. Buna ragmen [?] Öz Türkçe bir sestir. Ilk Türkçede bu ses /nk/ olarak geçer. Bazi örnekleri ºunlardir: menke (ba?a), bunk (bu?), Tenkri (ta?ri), -nink (-ni?)... Zaman içinde düºen [g] sesi [?] sesinin de yok olmasini saglamiºtir. Bir baºka farklilik ise [?] sesidir. Diger Türk dillerinde bu ses bulunmaz; ancak Kazakçada bu durum farklidir. Öz Türkçe /j/ sesleri, yani "y" sesleri [?] yani "j" seslerine dönüºür. Örnegin: yok › joq, yil › jil, yay › jay... Ayni durum Kirgizca için de geçerlidir. Türkçede [d??] yani "c" sesi olmamasina ragmen Kirgizcada baºtaki [j] yani "y" sesleri bu sese dönüºmüºtür. Örnegin: yol › col, yildiz › cildiz... Bunun diºinda bazi sesler ise yalnizca Türkiye Türkçesi ve Azerbaycanca, Türkmence gibi daha batida ve Oguz öbegi içerisindeki dillere özgü sesler vardir. Örnegin ince ünlülerle kullanilan "g" sesi /?/ ve kalin ünlülerle kullanilan "g" sesi /?/ Öz Türkçede bulunmaz. Buna ragmen Oguz grubu dillerde bulunur. Bu seslerin tümü "g" yani /?/ sesinden gelir.
+Ünlü sesler
+Türkçe Standart Ünlü Sesler 	Ince 		Kalin
+	Düz 	Yuvarlak 		Düz 	Yuvarlak
+Açik 	i 	ü 		i 	u
+Kapali 	e 	ö 		a 	o
+Türkiye Türkçesinde basit zamanlar
+Geçmiº zaman
+
+Türkiye Türkçesindeki geçmiº zaman iºlevi iki ayri ek ile yapilir. Bunlardan birisi ögrenilen geçmiº zaman olarak belirtilen yapidir ve -mIº ekinin -miº, -miº, -muº, -müº ºekilleriyle yapilir. Diger yapi, görülen geçmiº zaman olarak belirtilir ve -DI ekinin -di, -di, -du, -dü; -ti, -ti, -tu, -tü ºekilleriyle yapilir. Bu ºekil çoklugunun nedeni Türkiye Türkçesinde ileri düzeydeki ünlü ve ünsüz uyumudur. (Örnegin, gel- eylemine -di eklenip geldi oluºturulurken, ayni eylemin geliº- ºekline -ti eklenip geliºti kurulur. Bu örneklerin ilkindeki “l” ünsüzü “d”yi kabul ederken, “e” ünlüsü de “i”yi kabul etmiºtir. Ikinci örnekteki “º” ünsüzü ise d yerine “t”yi kabul etmekte ve o ºekilde eklenmektedir.)
+
+Ögrenilen geçmiº zaman (-miº, -miº, -muº, -müº) tümceye ögrenilmiºlik, duyulmuºluk anlami katmaktadir. Görülen geçmiº zamanda (-di, -di, -du, -dü; -ti, -ti, -tu, -tü) ise tümceye görülen bir bilgiyi vermektedir. Zaman ekinden sonra kiºi eki gelir: de-di-m, yetiº-ti-k, sor-du-lar vb.[73]
+Türkçede Geçmiº Zaman Tablosu: (-di)
+Kiºi 	git- 	gel- 	ara-
+1. Tekil Kiºi (Ben) 	git-ti-m 	gel-di-m 	ara-di-m
+2. Tekil Kiºi (Sen) 	git-ti-n 	gel-di-n 	ara-di-n
+3. Tekil Kiºi (O) 	git-ti 	gel-di 	ara-di
+1. Çogul Kiºi (Biz) 	git-ti-k 	gel-di-k 	ara-di-k
+2. Çogul Kiºi (Siz) 	git-ti-niz 	gel-di-niz 	ara-di-niz
+3. Çogul Kiºi (Onlar) 	git-ti-ler 	gel-di-ler 	ara-di-lar
+ªimdiki zaman
+
+Türkiye Türkçesinde ºimdiki zamanli bir tümce kurabilmek için eylem kökünün sonuna “-yor” eki getirilir. Geniº Türkçe cografyasi içinde yalnizca Türkiye Türkçesinde bulunan bu ek, tarihî nedenlerden ötürü tek ºekillidir (sadece -yor): geliyor, bakiyor, düºüyor, soruyor vb.
+
+Bu ek aslinda bir ek degildir. Ilk Türkçe bu ek "yori-" eyleminden gelir. Örnegin "geliyorum" demek için "kel-e yorir men" derdiler. Burada "kel-", "gel-" anlaminda "men" ise "ben" anlamindadir. Zaman için çok kullanilan bu yapi Türkçenin sondan eklemeli olmasi nedeniyle ekleºmiºtir. Ancak her zaman "-yor" biçiminde kalir.[49]
+
+“-yor” eki, ünsüzle biten eylemlerden sonra gelirken, ekle eylem arasina, kalin-ince durumuna göre bir yardimci ses alir: gel-i-yor, dur-u-yor vb. Ünlü ile biten eylemlerde, yardimci sese gerek kalmaz. Bu tür durumda yalnizca ek daralabilir: de-yor > di-yor, baºla-yor > baºli-yor vb.
+
+Bu ºimdiki zaman eki, hem ºekli hem kullanim tarzi açisindan, Türkiye Türkçesinde ayrikli bir özellige sahiptir. Zaman ekinden sonra kiºi eki gelir: seslen-i-yor-uz, dur-u-yor-um vb.[73]
+
+-mekte -makta ekleri de tümceye ºimdiki zaman anlamini kazandirir. Ders çaliºmaktayim. Seni düºünmekteyim.
+Türkçede ªimdiki Zaman Tablosu (-yor):
+Kiºi 	git- 	gel- 	ara-
+1. Tekil Kiºi (Ben) 	gid-i-yor-um 	gel-i-yor-um 	ari-yor-um
+2. Tekil Kiºi (Sen) 	gid-iyor-sun 	gel-i-yor-sun 	ari-yor-sun
+3. Tekil Kiºi (O) 	gid-iyor 	gel-i-yor 	ari-yor
+1. Çogul Kiºi (Biz) 	gid-iyor-uz 	gel-i-yor-uz 	ari-yor-uz
+2. Çogul Kiºi (Siz) 	gid-iyor-sunuz 	gel-i-yor-sunuz 	ari-yor-sunuz
+3. Çogul Kiºi (Onlar) 	gid-iyor-lar 	gel-i-yor-lar 	ari-yor-lar
+
+
+Türkçede ªimdiki Zaman Tablosu (-makta):
+Kiºi 	git- 	gel- 	ara-
+1. Tekil Kiºi (Ben) 	git-mekte-y-im 	gel-mekte-y-im 	ara-makta-y-im
+2. Tekil Kiºi (Sen) 	git-mekte-sin 	gel-mekte-sin 	ara-makta-sin
+3. Tekil Kiºi (O) 	git-mekte 	gel-mekte 	ara-makta
+1. Çogul Kiºi (Biz) 	git-mekte-y-iz 	gel-mekte-y-iz 	ara-makta-y-iz
+2. Çogul Kiºi (Siz) 	git-mekte-siniz 	gel-mekte-siniz 	ara-makta-siniz
+3. Çogul Kiºi (Onlar) 	git-mekte-ler 	gel-mekte-ler 	ara-makta-lar
+Gelecek zaman
+
+-AcAk -ecek,-acak ek ºekilleri ile yapilir. Ünsüzden sonra ek dogrudan gelirken, ünlü ile biten eylemlere eklenmeden önce, yardimci ünsüz gelir.[73]
+Türkçede Gelecek Zaman Tablosu (-acak):
+Kiºi 	git- 	gel- 	ara-
+1. Tekil Kiºi (Ben) 	gid-eceg-im 	gel-eceg-im 	ara-y-acag-im
+2. Tekil Kiºi (Sen) 	gid-ecek-sin 	gel-ecek-sin 	ara-y-acak-sin
+3. Tekil Kiºi (O) 	gid-ecek 	gel-eceg 	ara-y-acak
+1. Çogul Kiºi (Biz) 	gid-eceg-iz 	gel-eceg-iz 	ara-y-acag-iz
+2. Çogul Kiºi (Siz) 	gid-ecek-siniz 	gel-ecek-siniz 	ara-y-acak-siniz
+3. Çogul Kiºi (Onlar) 	gid-ecek-ler 	gel-ecek-ler 	ara-y-acak-lar
+Geniº zaman
+
+Türkiye Türkçesinde geniº zaman eylem sonuna -r, -er, -ar ek ºekillerinden biri getirilerek oluºturulur.[73]
+Türkçede Geniº Zaman Tablosu (-r):
+Kiºi 	git- 	gel- 	ara-
+1. Tekil Kiºi (Ben) 	gid-e-r-im 	gel-i-r-im 	ara-r-im
+2. Tekil Kiºi (Sen) 	gid-e-r-sin 	gel-i-r-sin 	ara-r-sin
+3. Tekil Kiºi (O) 	gid-e-r 	gel-i-r 	ara-r
+1. Çogul Kiºi (Biz) 	gid-e-r-iz 	gel-i-r-iz 	ara-r-iz
+2. Çogul Kiºi (Siz) 	gid-e-r-siniz 	gel-i-r-siniz 	ara-r-siniz
+3. Çogul Kiºi (Onlar) 	gid-e-r-ler 	gel-i-r-ler 	ara-r-lar
+Türkiye Türkçesinde birleºik zamanlar
+
+Türkçede zamanlar çok çeºitlidir ve varliklidir. Yalnizca bir zaman belirtmek zorunda olmazsiniz. Türkçede bunun için ek eylem yapisi vardir. Türkçede ek eylem dört ayri çekimlidir. Bunlardan biri ek olarak kullanilan "-dir" digerleri ise "idi", "imiº", "ise" olmaktadir. Bunlarin dördü de olmak (Ilk Türkçede bolmak) anlamina gelen i- eyleminden gelir. Bu eylemin Ilk Türkçede durumu "er-" biçimindedir, zamanla "i-" biçiminde kalmiºtir. Türkçede ek eylem için "olmak" eylemi kullanilmaz. Çünkü bu eylem, yardimci eylem olarak kullanilir, bunun yerine "er-" eylemi ek eylem olarak kullanilir. Bu yüzden kullanilmaz ancak kullanilmazsi anlamsiz kalmaz.[74]
+Geniº Zaman
+
+Türkçede herhangi bir zamanin geniºini (-dir) eki yapar.
+Türkçede Geniº Zaman Tablosu (yaz-):
+Kiºi 	ªimdiki Zaman 	Görülen Geçmiº Zaman 	Duyulan Geçmiº Zaman 	Gelecek Zaman 	Geniº Zaman
+1. Tekil Kiºi (Ben) 	yaz-i-yor-um-dur 	yaz-di-m-dir 	yaz-miº-im-dir 	yaz-acag-im-dir 	yaz-a-r-im-dir
+2. Tekil Kiºi (Sen) 	yaz-i-yor-sun-dur 	yaz-di-n-dir 	yaz-miº-sin-dir 	yaz-acak-sin-dir 	yaz-a-r-sin-dir
+3. Tekil Kiºi (O) 	yaz-i-yor-dur 	yaz-di-dir 	yaz-miº-dir 	yaz-acak-dir 	yaz-a-r-dir
+1. Çogul Kiºi (Biz) 	yaz-i-yor-uz-dur 	yaz-di-k-dir 	yaz-miº-iz-dir 	yaz-acag-iz-dir 	yaz-a-r-iz-dir
+2. Çogul Kiºi (Siz) 	yaz-i-yor-sunuz-dur 	yaz-di-niz-dir 	yaz-miº-siniz-dir 	yaz-acak-siniz-dir 	yaz-a-r-siniz-dir
+3. Çogul Kiºi (Onlar) 	yaz-i-yor-lar-dir 	yaz-di-lar-dir 	yaz-miº-lar-dir 	yaz-acak-lar-dir 	yaz-a-r-lar-dir
+Görülen geçmiº zaman
+
+Türkçede herhangi bir zamanin görülen geçmiºini "idi" yapar. Ancak bu ekleºebilir de. Örnegin "yazmiº idi" yerine "yazmiºti" kullanilabilir. Böyle ekli kullanim günlük yaºamda daha çok kullanilir; ancak yazi dilinde "idi" biçiminde geçebilir.
+Türkçede Görülen Geçmiº Zaman Tablosu (yaz-):
+Kiºi 	ªimdiki Zaman 	Görülen Geçmiº Zaman 	Duyulan Geçmiº Zaman 	Gelecek Zaman 	Geniº Zaman
+1. Tekil Kiºi (Ben) 	yaz-i-yor-(du-m) (idi-m) 	yaz-di(-y-di-m) (idi-m) 	yaz-miº-(ti-m) (idi-m) 	yaz-acak-(ti-m) (idi-m) 	yaz-a-r-(di-m) (idi-m)
+2. Tekil Kiºi (Sen) 	yaz-i-yor-(du-n) (idi-n) 	yaz-di(-y-di-n) (idi-n) 	yaz-miº-(ti-n) (idi-n) 	yaz-acak-(ti-n) (idi-n) 	yaz-a-r-(di-n) (idi-n)
+3. Tekil Kiºi (O) 	yaz-i-yor-(du) (idi) 	yaz-di(-y-di) (idi) 	yaz-miº-(ti) (idi) 	yaz-acak-(ti) (idi) 	yaz-a-r-(di) (idi)
+1. Çogul Kiºi (Biz) 	yaz-i-yor-(du-k) (idi-k) 	yaz-di(-y-di-k) (idi-k) 	yaz-miº-(ti-k) (idi-k) 	yaz-acak-(ti-k) (idi-k) 	yaz-a-r-(di-k) (idi-k)
+2. Çogul Kiºi (Siz) 	yaz-i-yor-(du-nuz) (idi-niz) 	yaz-di(-y-di-niz) (idi-niz) 	yaz-miº-(ti-niz) (idi-niz) 	yaz-acak-(ti-niz) (idi-niz) 	yaz-a-r-(di-niz) (idi-niz)
+3. Çogul Kiºi (Onlar) 	yaz-i-yor-(lar-di) (-lar idi) 	yaz-di(-y-di-lar) (-lar idi) 	yaz-miº-(lar-di) (-lar idi) 	yaz-acak-(lar-di) (-laridi) 	yaz-a-r-(lar-di) (-lar idi)
+Duyulan geçmiº zaman
+
+Türkçede herhangi bir zamanin görülen geçmiºini "imiº" yapar. Ancak bu ekleºebilir de. Örnegin "yazmiº imiº" yerine "yazmiºmiº" kullanilabilir. Böyle ekli kullanim günlük yaºamda daha çok kullanilir; ancak yazi dilinde "imiº" biçiminde geçebilir.
+Türkçede Duyulan Geçmiº Zaman Tablosu (yaz-):
+Kiºi 	ªimdiki Zaman 	Görülen Geçmiº Zaman 	Duyulan Geçmiº Zaman 	Gelecek Zaman 	Geniº Zaman
+1. Tekil Kiºi (Ben) 	yaz-i-yor-(muº-um) (imiº-im) 	yaz-di(-y-miº-im) (imiº-im) 	yaz-miº-(miº-im) (imiº-im) 	yaz-acak-(miº-im) (imiº-im) 	yaz-a-r-(miº-im) (imiº-im)
+2. Tekil Kiºi (Sen) 	yaz-i-yor-(muº-sun) (imiº-sin) 	yaz-di(-y-miº-sin) (imiº-sin) 	yaz-miº-(miº-sin) (imiº-sin) 	yaz-acak-(miº-sin) (imiº-sin) 	yaz-a-r-(miº-sin) (imiº-sin)
+3. Tekil Kiºi (O) 	yaz-i-yor-(muº) (imiº) 	yaz-di(-y-miº) (imiº) 	yaz-miº-(miº) (imiº) 	yaz-acak-(miº) (imiº) 	yaz-a-r-(miº) (imiº)
+1. Çogul Kiºi (Biz) 	yaz-i-yor-(muº-uz) (imiº-iz) 	yaz-di(-y-miº-iz) (imiº-iz) 	yaz-miº-(miº-iz) (imiº-iz) 	yaz-acak-(miº-iz) (imiº-iz) 	yaz-a-r-(miº-iz) (imiº-iz)
+2. Çogul Kiºi (Siz) 	yaz-i-yor-(muº-sunuz) (imiº-siniz) 	yaz-di(-y-miº-siniz) (imiº-siniz) 	yaz-miº-(miº-siniz) (imiº-siniz) 	yaz-acak-(miº-siniz) (imiº-siniz) 	yaz-a-r-(miº-siniz) (imiº-siniz)
+3. Çogul Kiºi (Onlar) 	yaz-i-yor-(lar- miº) (-lar imiº) 	yaz-di(-lar-miº) (-lar imiº) 	yaz-miº-(miº-lar) (imiº-ler) 	yaz-acak-(miº-lar) (imiº-ler) 	yaz-a-r-(miº-lar) (imiº-ler)
+ªart
+
+Türkçede herhangi bir zamanin görülen geçmiºini "ise" yapar. Ancak bu ekleºebilir de. Örnegin "yazmiº ise" yerine "yazmiºsa" kullanilabilir. Böyle ekli kullanim günlük yaºamda daha çok kullanilir; ancak yazi dilinde "ise" biçiminde geçebilir.
+Türkçede ªart Tablosu (yaz-):
+Kiºi 	ªimdiki Zaman 	Görülen Geçmiº Zaman 	Duyulan Geçmiº Zaman 	Gelecek Zaman 	Geniº Zaman
+1. Tekil Kiºi (Ben) 	yaz-i-yor-(sa-m) (ise-m) 	yaz-di(-y-sa-m) (ise-m) 	yaz-miº-(sa-m) (ise-m) 	yaz-acak-(sa-m) (ise-m) 	yaz-a-r-(sa-m) (ise-m)
+2. Tekil Kiºi (Sen) 	yaz-i-yor-(sa-n) (ise-n) 	yaz-di(-y-sa-n) (ise-n) 	yaz-miº-(sa-n) (ise-n) 	yaz-acak-(sa-n) (ise-n) 	yaz-a-r-(sa-n) (ise-n)
+3. Tekil Kiºi (O) 	yaz-i-yor-(sa) (ise) 	yaz-di(-y-sa) (ise) 	yaz-miº-(sa) (ise) 	yaz-acak-(sa) (ise) 	yaz-a-r-(sa) (ise)
+1. Çogul Kiºi (Biz) 	yaz-i-yor-(sa-k) (ise-k) 	yaz-di(-y-sa-k) (ise-k) 	yaz-miº-(sa-k) (ise-k) 	yaz-acak-(sa-k) (ise-k) 	yaz-a-r-(sa-k) (ise-k)
+2. Çogul Kiºi (Siz) 	yaz-i-yor-(sa-niz) (ise-niz) 	yaz-di(-y-sa-niz) (ise-niz) 	yaz-miº-(sa-niz) (ise-niz) 	yaz-acak-(sa-niz) (ise-niz) 	yaz-a-r-(sa-niz) (ise-niz)
+3. Çogul Kiºi (Onlar) 	yaz-i-yor-(lar-sa) (-lar ise) 	yaz-di(-lar-sa) (-lar ise) 	yaz-miº-(lar-sa) (-lar ise) 	yaz-acak-(sa-lar) (ise-ler) 	yaz-a-r-(sa-lar) (ise-ler)
+Diger birleºik zamanlar
+
+Türkçede birleºik zamanli yapan yapan "i-" eyleminin yaninda ayni anlamda "ol-" eylemi de görev yapar. Hiçbir zaman "-yor" ve "-acak" eklerini almayan "i-" eyleminin bu eksikligini "ol-" eylemi doldurur. Örnegin "gitmiº iyorlar" yerine "gitmiº oluyorlar" kullanilir.[75]
+-miº olacak
+
+Türkçede birleºik zaman yapan "ol-" eyleminin görevlerinden biri "-miº olmak" yapmaktir. Buna göre eylem duyulan geçmiº zamana göre çekimlenir, daha sonra olacak eylemini alir, ki bu yüklem olur, sonra kiºi eki koyulur.
+Türkçede -miº olacak Tablosu (yaz-):
+Kiºi 	Olumlu 	Olumsuz 	Soru
+1. Tekil Kiºi (Ben) 	yaz-miº ol-acag-im 	yaz-ma-miº ol-acag-im 	yaz-miº ol-acak mi-y-im?
+2. Tekil Kiºi (Sen) 	yaz-miº ol-acak-sin 	yaz-ma-miº ol-acak-sin 	yaz-miº ol-acak mi-sin?
+3. Tekil Kiºi (O) 	yaz-miº ol-acak 	yaz-ma-miº ol-acak 	yaz-miº ol-acak mi?
+1. Çogul Kiºi (Biz) 	yaz-miº ol-acag-iz 	yaz-ma-miº ol-acag-iz 	yaz-miº ol-acak mi-y-iz?
+2. Çogul Kiºi (Siz) 	yaz-miº ol-acak-siniz 	yaz-ma-miº ol-acak-siniz 	yaz-miº ol-acak mi-siniz?
+3. Çogul Kiºi (Onlar) 	yaz-miº ol-acak-lar 	yaz-ma-miº ol-acak-lar 	yaz-miº ol-acak-lar mi?
+-yor olacak
+
+Türkçede birleºik zaman yapan "ol-" eyleminin görevlerinden bir digeri "-yor olmak" yapmaktir. Buna göre eylem ºimdiki geçmiº zamana göre çekimlenir, daha sonra olacak eylemini alir, ki bu yüklem olur, sonra kiºi eki koyulur. Bu biçimde çekimlenen eylemler "gelecek zaman" anlami vermezler; ancak gelecek zaman içerisinde yapiliyor olacagini belirtir. Bu da bir iº kiliºin, oluºun veya durumun gelecekte yapiliyor olacagini gösterir.
+Türkçede -miº olacak Tablosu (yaz-):
+Kiºi 	Olumlu 	Olumsuz 	Soru
+1. Tekil Kiºi (Ben) 	yaz-i-yor ol-acag-im 	yaz-mi-yor ol-acag-im 	yaz-i-yor ol-acak mi-y-im?
+2. Tekil Kiºi (Sen) 	yaz-i-yor ol-acak-sin 	yaz-mi-yor ol-acak-sin 	yaz-i-yor ol-acak mi-sin?
+3. Tekil Kiºi (O) 	yaz-i-yor ol-acak 	yaz-mi-yor ol-acak 	yaz-i-yor ol-acak mi?
+1. Çogul Kiºi (Biz) 	yaz-i-yor ol-acag-iz 	yaz-mi-yor ol-acag-iz 	yaz-i-yor ol-acak mi-y-iz?
+2. Çogul Kiºi (Siz) 	yaz-i-yor ol-acak-siniz 	yaz-mi-yor ol-acak-siniz 	yaz-i-yor ol-acak mi-siniz?
+3. Çogul Kiºi (Onlar) 	yaz-i-yor ol-acak-lar 	yaz-mi-yor ol-acak-lar 	yaz-i-yor ol-acak-lar mi?
+Yabanci dillerle etkileºimi
+Türkçe sözcük varligi
+Türkçe'nin %86'ini Türkçe kelimeler oluºtururken diger %14'ünü baºta Arapça olmak üzere Fransizca, Farsça, Yunanca gibi çeºitli dillerden kelimeler oluºturmaktadir.
+
+2005'te yayinlanan Güncel Türkçe Sözlük 104.481 sözcük içerir. Sonraki yeni çaliºmalarla 616.767 söz kapsar duruma gelen sözcük ile birlikte yabanci söz orani da degiºmiºtir. Bu sözcüklerin %14'ünün yabanci kökenli oldugu TDK tarafindan tespit edilmiºtir. Ötüken Neºriyat'in hazirladigi Türkçe Sözlük'te 246.000 kelime bulunmaktadir.[76]
+
+ªu an için, Türkiye Türkçesinin en geliºmiº sözlügü Büyük Türkçe Sözlük’te söz, deyim, terim ve isim olmak üzere toplam 616.767 söz varligi bulunmaktadir. Türkiye Türkçesinin bütün söz varligini bir araya getiren ve ortak bir veri tabaninda kullanima sunulan Büyük Türkçe Sözlük (TDK), yazi dilinin söz varliginin yani sira bütün bilim, sanat ve spor terimlerini, yer adlarini, kiºi adlarini, Türkiye bölge agizlarindaki ve kaynaklardaki sözcükleri, deyimleri içermektedir.[77]
+Türkiye Türkçesine geçen yabanci sözcükler
+
+Her ne kadar Atatürk'ün dil devrimi ile Türkiye Türkçesi, kökeni Arapça ve Farsça olup da dilde egreti duran sözcüklerden arindirilmaya çaliºildiysa da, dil devriminin politik etkenlerle aksamasindan ötürü bu iki dilden sözcükler, Fransizca sözcüklerle birlikte Türkçe sözlügün önemli bir bölümünü oluºturmayi sürdürmektedir.
+
+Yabanci kökenli sözcüklerden bazi örnekler:
+
+    Arapçadan: insan, asker, hain
+    Farsçadan: ateº, rüzgar, düºman
+    Fransizcadan: kuzen, kuaför, hoparlör, detay, anten, tuvalet, polis
+    Italyancadan: politika, fanila, kundura
+    Ingilizceden: pikap, video, çita, medya, sandviç
+    Yunancadan: liman, kiraz
+    Almancadan: ºalter, general, panzer
+
+Türkçeden diger dillere geçen sözcük sayisi
+
+    Sirpça: 8995
+    Bulgarca: 3490
+    Yunanca: 2984
+    Farsça: 2969
+    Arnavutça: 2622
+
+	
+
+    Rumence: 2780
+    Rusça: 2476
+    Arapça: 1990
+    Macarca: 1982
+    Ukraynaca: 800
+    Ingilizce: 470
+
+	
+
+    Çince:289
+    Çekçe :248
+    Urduca:227
+    Almanca :166
+    Italyanca:146
+    Fince:115
+
+	
+
+Türkçe kökenli ya da alinti sözcüklerden bazi örnekler:
+
+    biçak: Macarca "bicska"
+    cacik: Yunanca "tzatziki"
+    çaprak: Almanca "Schabracke"
+    dilmaç (çevirmen): Almanca "Dolmetscher"
+    dolma: Ingilizce "dolma", Yunanca "dolmadaki"
+    köºk: Slavca, Almanca "Kiosk"
+    ordu: Almanca, Ingilizce ve Fransizca "Horde"
+    yelek: Ingilizce ve Fransizca "gilet", Ispanyolca "gileco, jaleco, chaleco", Arapça "jalikah"
+    yogurt: Ingilizce "yoghurt", Fransizca "yaourt", Almanca "Joghurt", Ispanyolca "yogur"
+
+Ayrica, Osmanli Imparatorlugu dönemi veya öncesinden ºekillenmiº, Türkçe-Ermenice ortak sözcük dagarcigi, Türkçe-Yunanca ortak sözcük dagarcigi, Türkçe-Bulgarca ortak sözcük dagarcigi, Türkçe-Arnavutça ortak sözcük dagarcigi, Türkçe-Boºnakça ortak sözcük dagarcigi, Türkçe-Romence ortak sözcük dagarcigi mevcuttur.
+Türkçe sanilan yabanci kökenli sözcükler
+
+Bazi Türkçe kökenli kabul edilen sözcük, Sevan Niºanyan gibi çeºitli kiºiler tarafindan yabanci kökenli olduklari iddia ediliyor. Özellikle Sogdcadan birtakim alinti gerçekleºtigi saniliyor ya da tersine Türkçeden Sogdcaya. Bu durumda kimin kimden alinti yaptigi kesinlik kazanmamiºtir, baºka bir olasilik ise karºilikli etkilenme de söz konusu oldugudur. Bu durum, Eski Türkler ve Sogdlarin iç içe yaºadiklarindan kaynaklanabilir. Bunun yaninda Toharca, Orta Farsça ve Türkçe karºilikli etkilenme oldugu tahmin ediliyor. Çin’in Uygur Türklerin yaºadigi ve özerklige sahip olduklari Sincan (Dogu Türkistan) bölgesinde Iranî olan Partça, Orta Farsça, Sogdca ve Sakça dillerinden yazi buluntulari[78] tespit edilmiºtir. Bunun yani sira Hint-Avrupa dil ailesinin içinde ayri gruba ait olan Toharcadan da yazilar bulunmuºtur.
+
+Türkçe olmadigi sanilan sözcüklerin kökleri hakkinda yaklaºimlar:
+Sözcük 	Köken 	Etimolojik Kaynak
+akºam 	Sogdca: ?ºam 	Sevan Niºanyan Süer Eker (sayfa 244)
+acun 	Sogdca: ajun (oku: acun) 	Sevan Niºanyan
+bagiº 	Yeni Farsça / Orta Farsça: ba?º 	Sevan Niºanyan
+bayram 	Orta Farsça: pa?ram, Sogdca: patram 	Sevan Niºanyan
+borç 	Sogdca: purç 	Sevan Niºanyan
+esen 	Yeni Farsça / Orta Farsça: asan 	Sevan Niºanyan
+kadin 	Sogdca: ?waten 	Sevan Niºanyan (1) Sevan Niºanyan (2) Süer Eker (sayfa 260)
+pis 	Yeni Farsça: pis, Avesta: paesa- 	Sevan Niºanyan
+yardim 	Türkçe[79][80], Yeni Farsça: yaridan 	Sevan Niºanyan
+
+Bu sözcüklerin kökenleri hakkinda farkli degerlendirmeler için Hasan Eren'in köken bilimi çaliºmalarina da bakilabilir.
+
+https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e

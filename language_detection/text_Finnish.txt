@@ -1,0 +1,482 @@
+Suomen kieli (suomi) on uralilaisen kielten itämerensuomalaiseen ryhmään kuuluva kieli. Sitä puhuu äidinkielenään Suomessa 4,9 miljoonaa ja toisena kielenä 0,5 miljoonaa henkilöä. Suurimmat suomea puhuvat vähemmistöt ovat Ruotsissa, Norjassa ja Venäjällä.
+
+Suomen kieli on voimakkaasti taipuva, agglutinoiva kieli. Sanajärjestys on toissijainen, lauseenjäsenten perusjärjestys on subjekti–predikaatti–objekti ja määrite käy useimmiten pääsanansa edellä. Suomessa on kahdeksan vokaalia ja 13 konsonanttia, mikäli eräitä lainasanoissa esiintyviä äänteitä ei lueta mukaan.
+
+Sisällysluettelo
+
+    1 Puhujamäärä ja -alue
+    2 Luokittelu
+    3 Variaatio
+        3.1 Yleiskieli ja puhekieli
+        3.2 Murteet
+    4 Äännerakenne
+        4.1 Äännejärjestelmä
+        4.2 Fonotaksi
+        4.3 Tavu- ja sanarakenne
+        4.4 Prosodia
+        4.5 Sananrajaiset äänneilmiöt
+    5 Kielioppi
+        5.1 Sanaluokat
+        5.2 Vartalot ja sidonnaiset morfeemit
+        5.3 Nominien taivutus
+            5.3.1 Luku
+            5.3.2 Sijamuodot
+            5.3.3 Omistusliitteet
+            5.3.4 Komparaatio
+        5.4 Verbien taivutus
+            5.4.1 Persoona ja passiivi
+            5.4.2 Tempus
+            5.4.3 Modus
+            5.4.4 Infiniittiset muodot
+        5.5 Morfofonologinen vaihtelu
+        5.6 Liitepartikkelit
+        5.7 Lausekkeet ja lauseenjäsenet
+        5.8 Peruslausetyypit
+        5.9 Sanajärjestys
+        5.10 Lauseenvastikkeet
+    6 Sanasto
+        6.1 Perussanat ja kompleksiset sanat
+        6.2 Yhdyssanat
+        6.3 Johdokset
+        6.4 Sanaston alkuperä
+            6.4.1 Omaperäiset sanat
+            6.4.2 Lainasanat
+    7 Kirjoitusjärjestelmä
+    8 Historia
+        8.1 Kielihistoria
+        8.2 Kirjoitetun kielen historia
+            8.2.1 Varhaissuomen kausi (–1540)
+            8.2.2 Vanhan suomen kausi (1540–1820)
+            8.2.3 Varhaisnykysuomen kausi (1820–1870)
+            8.2.4 Nykysuomen kausi (1870–)
+    9 Tutkimus ja opetus
+        9.1 Suomen kielen sanakirjat ja kielioppiteokset
+    10 Katso myös
+    11 Lähteet
+        11.1 Viitteet
+    12 Kirjallisuutta
+        12.1 Etymologia
+        12.2 Historia
+        12.3 Kielioppi
+    13 Aiheesta muualla
+
+Puhujamäärä ja -alue
+
+Suomen kieltä puhutaan enimmäkseen Suomessa, jossa sitä puhuu äidinkielenään noin 90 % maan asukkaista, vuoden 2015 lopussa lähes 4,9 miljoonaa.[1] Lisäksi Suomessa on arviolta puoli miljoonaa ihmistä, jotka puhuvat suomea toisena kielenä.[3] Suomenruotsalaisista valtaosa osaa suomea ainakin jonkin verran, sillä vain 20 % arvioi suomen kielen taitonsa heikoksi tai olemattomaksi.[4] Suomessa asuvista ulkomaalaistaustaisista arviolta 3/4 osaa suomea vähintään keskitasolla.[5] Suomen perustuslain mukaan maan kansalliskielet ovat suomi ja ruotsi.[6]
+
+Pohjois-Ruotsissa Tornionjokilaaksossa, Kiirunassa ja Jällivaarassa puhutaan meänkieltä, jota voidaan historiallisesta ja rakenteellisesta näkökulmasta pitää suomen kielen murteena, mutta kielipoliittisesti ja identiteettisyistä sitä pidetään nykyään erillisenä kielenä. Sillä on oma kirjakieli, joka eroaa suomen yleiskielestä. Meänkielellä on arvioitu olevan Pohjois-Ruotsissa 20 000–35 000 ja lisäksi muualla 15 000–25 000 puhujaa.[7] Ruotsissa asuu myös satoja tuhansia ruotsinsuomalaisia, jotka ovat enimmäkseen muuttaneet sinne toisen maailmansodan jälkeen, etenkin 1960- ja 1970-luvuilla. Heidän määräänsä on vaikea arvioida, koska äidinkieltä ei Ruotsissa tilastoida. 2000-luvun alussa Ruotsissa arvioitiin asuvan 200 000–300 000 suomea äidinkielenään puhuvaa.[8] Vuonna 2005 tehdyn kyselyn mukaan noin 400 000 Ruotsin asukasta puhui tai ymmärsi suomea, meänkieltä tai molempia.[9] Sekä suomi että meänkieli ovat olleet Ruotsissa virallisia vähemmistökieliä vuodesta 1999.[10]
+
+Norjan pohjoisosassa asuvien kveenien puhumaa kieltä on myös pidetty sekä suomen murteena että omana kielenään. Arviot kveenin kielen puhujien määrästä vaihtelevat 2 000 ja 8 000:n välillä.[11] Norjan kveeniliiton arvion mukaan kveenejä on noin 10 000, ja heistä 5 000–7 000 puhuu kieltä ainakin jonkin verran.[12] Kveenin kieli sai virallisen vähemmistökielen aseman Norjassa vuonna 2005.[13]
+
+Venäjällä perinteinen suomea puhuva väestöryhmä olivat inkeriläiset, joiden lukumäärä on kuitenkin vähentynyt, sillä nuorempi sukupolvi puhuu enimmäkseen venäjää ja monet ovat muuttaneet Suomeen.[14] Myös Karjalan tasavallassa suomalaisten määrä on vähentynyt samoista syistä, eikä suomen kielellä ole siellä virallista asemaa.[15] Venäjän vuoden 2010 väestölaskennassa 20 700 ihmistä ilmoitti olevansa kansallisuudeltaan suomalaisia tai inkeriläisiä[16] ja 39 000 ilmoitti osaavansa suomea.[17]
+
+Suomalaisia on muuttanut siirtolaisiksi myös Pohjois-Amerikkaan. Muutto oli voimakkaimmmilaan vuosina 1880–1930, ja sen seurauksena Yhdysvaltoihin ja Kanadaan syntyi suomea puhuvia yhteisöjä, joiden käyttämää kieltä on kutsuttu amerikansuomeksi.[18] Vuoden 2009–2013 tietojen mukaan Yhdysvalloissa suomea käytti kotikielenä 26 000 ihmistä.[19] Kanadan väestönlaskennassa vuonna 2011 suomea äidinkielenään puhui 17 000 ihmistä.[20]
+Luokittelu
+
+Genealogisen eli kielen alkuperään perustuvan luokittelun mukaan suomen kieli kuuluu uralilaisen kielikuntaan. Uralilaisia kieliä on parisenkymmentä, ja niitä puhutaan Euroopan pohjois- ja itäosissa, Unkarissa ja sen lähialueilla sekä Siperiassa. Ne voidaan jakaa kahteen pääryhmään, suomalais-ugrilaisiin kieliin ja samojedikieliin. Suomen lähimpiä sukukieliä ovat itämerensuomalaiset kielet, kuten viro ja karjala. Kaukaisempaa sukua ovat esimerkiksi saamelaiskielet ja unkari. Uralilaiset kielet ovat kehittyneet uralilaisesta kantakielestä.[21][22]
+
+Morfologisen typologian kannalta suomea pidetään usein agglutinoivana kielenä, eli kieliopilliset merkitykset ilmaistaan affikseilla, jotka liitetään sanavartalon perään ja voidaan erottaa selvästi toisistaan: esimerkiksi talo+i+ssa+ni+kin. Agglutinaatiota on pidetty uralilaisille kielille ominaisena piirteenä. Toisaalta suomi ei ole puhtaasti agglutinoiva kieli vaan siinä on myös fleksiokielten piirteitä, koska esimerkiksi sanassa vesiin sanavartalo, monikko ja illatiivi ovat sulautuneet yhteen eikä affikseja voi erottaa toisistaan.[23][24] Suomea onkin kutsuttu myös "kvasiagglutinoivaksi" kieleksi.[25] Suomessa alkuperäinen uralilaisten kielten agglutinaatio on kuitenkin säilynyt paremmin kuin esimerkiksi virossa.[26] Synteettisissä kielissä yhdessä sanassa voi olla paljon erilaisia morfeemeja ja sanat ovat pitkiä, kun taas analyyttisissä kielissä vastaavat merkitykset ilmaistaan erillisillä sanoilla. Tämän jaottelun mukaan suomi on synteettinen kieli, mikä on tyypillistä uralilaisille kielille, kun taas useimmat indoeurooppalaiset kielet ovat analyyttisia.[27]
+
+Sanajärjestystypologia jakaa kielet sen mukaan, missä järjestyksessä subjekti, objekti ja verbi ovat neutraalissa väitelauseessa. Suomi kuuluu SVO-kieliin, mikä näkyy esimerkiksi lauseessa Elli suuteli Ollia. Toisaalta suomi ei ole puhdas SVO-kieli, koska sanajärjestys voi vaihdella kontekstista ja painotuksesta riippuen.[28]
+Variaatio
+Yleiskieli ja puhekieli
+
+Suomen yleiskieli on kaikille suomen kielen puhujille yhteinen kielimuoto, joka noudattaa yleisesti hyväksyttyjä normeja. Koska yleiskieltä käytetään etenkin kirjoituksessa ja se on puhutusta kielestä selvästi erillinen kielimuoto, sitä kutsutaan myös kirjakieleksi. Puhuttua yleiskieltä käytetään lähinnä lukupuhunnassa, kun esimerkiksi valmiiksi kirjoitettua esitelmää luetaan ääneen julkisessa tilanteessa.[29][30] Lukupuhuntaa käytetään myös Yleisradion uutislähetyksissä.[31] Suomen yleiskieli perustuu vanhoihin murteisiin, ja siihen on yhdistetty tietoisesti eri murteita. Yleiskielessä on vain harvoja piirteitä, joita ei ole otettu suoraan jostain murteesta: sanaston lisäksi niitä ovat lähinnä vain d-äänne (esim. sanassa padan) ja konsonanttiyhtymä ts (esim. metsä).[32]
+
+Puhuttu suomen kieli on usein ns. yleispuhekieltä, joka eroaa yleiskielen normeista mutta ei sisällä millekään murteelle tai alueelle tyypillisiä piirteitä. Puhekielessä tavallista koko Suomessa on esimerkiksi a:n ja ä:n katoaminen olla- ja ei-sanojen edellä: meill-oli, siin-ei. Myös i katoaa yleisesti sekä sanan lopusta s:n jäljessä (osas, tulis, suureks) että diftongin lopusta sanan toisessa tavussa (punanen, antas < antaisi). Muita laajalle levinneitä piirteitä ovat yksikön käyttö monikon 3. persoonassa (ne tulee), pronominit se ja ne ihmisistä puhuttaessa ja minä- ja sinä-pronominien lyhyet asut, kuten mä(ä), mun ja mulla. Yleistä on myös passiivin käyttö monikon 1. persoonassa (me mennään), tiettyjen verbien pikapuhemuodot (ei oo, ei mee, ei tuu) ja pronominit toi ’tuo’ ja noi ’nuo’.[30]
+
+Suomen puhekielessä on kuitenkin paljon vaihtelua esimerkiksi puhujan iän, koulutuksen, sosiaalisen aseman ja kotipaikan mukaan. Perinteisesti on tutkittu etenkin eri alueiden murteiden välisiä eroja. Nykyään ihmiset muuttavat paljon paikasta toiseen, ja myös media tasoittaa kielellisiä eroja. Silti eri puolella Suomea puhutaan yhä eri tavoin.[29] Murteella voidaan ilmaista paikallista identiteettiä, ja murteen ”nuotti” eli prosodia voi säilyä silloinkin, kun ihminen puhuu muuten yleiskieltä.[33] Tasoittunutta murretta, jossa kuitenkin on joitain alueellisia piirteitä, kutsutaan aluepuhekieleksi.[30]
+Murteet
+
+    Pääartikkeli: Suomen murteet
+
+1) Lounaismurteet
+2) Hämäläismurteet
+3) Etelä-Pohjanmaan murre
+4) Keski- ja pohjoispohjalaiset murteet
+5) Peräpohjalaiset murteet (meänkieli ja kveeni mukaan luettuna)
+6) Savolaismurteet
+7) Kaakkoismurteet
+
+Suomen kielen murteista puhuttaessa tarkoitetaan yleensä ns. vanhoja aluemurteita. Siksi murrekartoissa esitetään vuoden 1938 kuntajako ja suomen murteiden puhuma-alueeseen luetaan mukaan Neuvostoliitolle luovutetut alueet, Inkerinmaa, Ruotsin Länsipohja ja Norjan Ruija. Toisaalta ruotsinkielisiä Suomen rannikkoalueita ei ole otettu mukaan.[34][35] Perinteisen murretutkimuksen kannalta aito murre on alkanut hävitä yleiskielen vaikutuksen, oppivelvollisuuden ja vilkastuvan muuttoliikkeen myötä 1900-luvun alussa.[36] Murteita voidaan pitää osittain väistyvänä kielimuotona, ja niiden väliset erot ovat vähitellen tasoittuneet, mutta toisaalta ne ovat yhä myös elävää kieltä. Ihmiset voivat esimerkiksi käyttää murresanoja, joita eivät välttämättä edes tunnista murteellisiksi.[37]
+
+Suomen murteet jaetaan perinteisesti kahtia länsimurteisiin ja itämurteisiin. Vastakkaisuus ei ole vain kielellinen, vaan eroja on myös muussa kansanomaisessa henkisessä ja aineellisessa kulttuurissa, kuten ruokataloudessa, työkaluissa, vaatteissa ja rakennuksissa. Länsimurteiden alueelle tyypillistä on ollut vakiintunut kyläasutus ja peltoviljely, idässä puolestaan haja-asutus, kaskenpoltto ja eräkulttuuri.[38][39] Vakiintunut käsitys murrejaosta perustuu lähinnä tiettyihin äänne- ja muotorakenteen piirteisiin, niiden historiallisen kehitykseen ja asutushistoriaan.[40]
+
+Ryhmien selvin ero on kirjakielen d-äänteen edustus. Lännessä sen tilalla on r (paran ’padan’, lehren ’lehden’, saara ’saada’), mutta idässä d katoaa (paan, lehen, saaha).[41] Myös kirjakielen ts:n vastineet eroavat: lännessä mettä ’metsä’, kattoo ’katsoo’ ja idässä mehtä, kahtoo.[42] Länsimurteissa on tyypillistä diftongien avartuminen (nuari ’nuori’, tyämiäs ’työmies’, viaras ’vieras’), itämurteissa puolestaan pitkän a:n ja ä:n diftongiutuminen (moa ’maa’, peä ’pää’, kaloa tai kalloo ’kalaa’, leipeä tai leipee ’leipää’).[43] Länsimurteissa esiintyy f-äänne ja sanan alussa voi olla kaksi konsonanttia, toisin kuin itämurteissa: esimerkiksi kaffe, fati, klasi, trappu, idässä kahvi, vati, lasi, rappu.[44] Tunnettuja ovat myös sanastoerot: lännessä vihta ja idässä vasta; lännessä sukkaa kudotaan mutta idässä neulotaan; en kehtaa tarkoittaa lännessä ’minua ujostuttaa’, idässä taas ’en viitsi’.[45]
+
+Länsi- ja itämurteiden rajaa ei voi määrittää täsmällisesti, koska se on erilainen eri murrepiirteiden kohdalla ja on olemassa myös sekamurteita, joissa on sekä länsi- että itämurteiden piirteitä. Itämurteiden alueeseen luetaan nykyiset Pohjois- ja Etelä-Savon, Pohjois- ja Etelä-Karjalan, Keski-Suomen ja Kainuun maakunnat, Järviseutu ja Koillismaa.[39][35] Länsi- ja itämurteet jaetaan edelleen seitsemään päämurrealueeseen, joista länsimurteita ovat lounaismurteet, hämäläismurteet, eteläpohjalaiset murteet, keski- ja pohjoispohjalaiset murteet sekä peräpohjalaiset murteet. Itämurteita ovat savolaismurteet ja kaakkoismurteet.[34][35]
+Äännerakenne
+
+Pääartikkeli Suomen kielen äännerakenne
+Äännejärjestelmä
+
+Suomessa on kahdeksan vokaalia: /i/, /y/, /u/, /e/, /o/, /o/, /a/ ja /?/.[46]
+Suomen vokaalit[47] 	Etuvokaalit 	Takavokaalit
+laveat 	pyöreät 	laveat 	pyöreät
+suppeat 	i 	y 		u
+puolisuppeat 	e 	o 		o
+väljät 	a 		? 	
+
+Konsonantteja suomessa on 13–17. Omaperäisissä sanoissa tunnetaan 13 konsonanttifoneemia: /p/, /t/, /d/, /k/, /m/, /n/, /?/, /s/, /h/, /r/, /l/, /?/ ja /j/. Velaarinen nasaali /?/ eli ”äng-äänne” esiintyy omaperäisissä sanoissa vain geminaattana /??/, jota merkitään oikeinkirjoituksessa kirjainyhdistelmällä ng, esimerkiksi /ka??as/ kangas.[48][49] Lisäksi lainasanojen mukana yleiskieleen on tullut neljä konsonanttia: /b/, /g/, /f/ ja /?/, jota merkitään kirjaimella š. Niistä /f/ kuuluu jo selvästi konsonanttijärjestelmään, mutta /b/ ja /g/ ovat sen raja-alueella ja /?/ on ilmeisesti kaikkein marginaalisin.[50]
+Suomen konsonantit[48][51] 	labiaali 	dentaali/
+alveolaari 	palataali/
+velaari 	glottaali
+klusiilit 	p (b) 	t d 	k (g) 	
+nasaalit 	m 	n 	? 	
+frikatiivit 	(f) 	s 	(?) 	h
+tremulantti 		r 		
+lateraali 		l 		
+puolivokaalit 	? 		j 	
+
+Suomessa on melko paljon vokaaleita suhteessa konsonantteihin. Konsonanttifoneemeita on vain 1,6 yhtä vokaalifoneemia kohden, kun eri kielten mediaani on 3,6. Juoksevassa tekstissä vokaaleita esiintyy vielä enemmän, sillä suomenkielisessä kirjoitetussa tekstissä tai litteroidussa puheessa vokaaleita on 48–49 % kaikista kirjainmerkeistä.[52][53]
+
+Suomen kielessä äänteiden pituus eli kvantiteetti erottelee merkityksiä. Pituusasteita on kaksi, ja oikeinkirjoituksessa lyhyet äänteet merkitään yhdellä tai ja pitkät kahdella kirjaimella.[54] Vokaalien pituusero esiintyy monissa maailman kielissä, mutta konsonanttien pituusero on harvinaisempi ilmiö.[55] Suomi on kuitenkin kielitypologisesti melko harvinainen kieli siinä mielessä, että äänteiden pituus ja sanapaino eivät ole sidoksissa toisiinsa: paino on aina sanan ensimmäisellä tavulla, mutta pitkiä ja lyhyitä äänteitä voi olla kaikissa tavuissa.[56]
+Fonotaksi
+Suomen kielen vokaaliharmonia
+
+Suomen kielessä vallitsee vokaalisoinnuksi kutsuttu fonotaktinen rajoitus, jonka mukaan yhdessä sanassa voi olla vain joko takavokaaleja (a, o, u) tai etuvokaaleja (ä, ö, y). Vokaalit e ja i ovat vokaalisoinnun suhteen neutraaleja eli voivat esiintyä myös yhdessä sekä etu- että takavokaalien kanssa. Vokaalisointu ei kuitenkaan koske yhdyssanoja, kuten kesäloma ja isoisä.[57][58]
+
+Suomessa on paljon diftongeja ja vokaaliyhtymiä, ja pitkät vokaalijonot ja vokaalien monenlaiset yhdistymismahdollisuudet erottavat suomen monista maailman kielistä.[55][58] Suomen yleiskielessä on 18 diftongia, jotka voidaan jakaa kolmeen ryhmään. Diftongeista harvinaisimpia ovat ey, iy, öi ja yi, jotka esiintyvät lähinnä vain taivutusmuodoissa tai johdoksissa, siis vartalon ja suffiksin rajalla: peseytyä, kääriytyä, töitä, hyinen.[59][60] Triftongeja suomessa ei ole, vaan kolmen vokaalin yhtymissä on aina tavuraja, kuten sanoissa kiuas, kaaos tai viheriöi. Sama koskee neljän vokaalin yhtymiä: raaoissa, aioin.[61]
+Suomen diftongit[59] suppenevat diftongit 	ei 	öi 	äi 	oi 	ai
+ey 	öy 	äy 		
+eu 	ou 	au 		
+suppeat diftongit 	yi 	ui 	iu 	iy 	
+väljenevät diftongit 	ie 	yö 	uo 		
+
+Konsonanttiyhtymiä ei tunnettu ennen suomessa ollenkaan sanan alussa, mikä ilmenee esimerkiksi vanhossa lainasanoissa ranta ja ruuti (< ruots. strand, krut). Nykyään ne ovat kuitenkin yleisiä paitsi lainasanoissa, myös slangissa ja deskriptiivisessä sanastossa, kuten prätkä ja plörö.[62] Omaperäisessä sanastossa on muitakin konsonantteja koskevia fonotaktisia rajoituksia, joita lainasanat voivat rikkoa. Esimerkiksi /d/ voi omaperäisessä sanastossa esiintyä vain konsonanttiyhtymässä /hd/ ja /?/ yhtymässä /?k/, mutta lainasanoissa muutkin yhdistelmät ovat mahdollisia, esimerkiksi sanoissa kandidaatti ja kognitio.[63]
+
+Kolmen konsonantin yhtymille on tavallista, että ensimmäinen konsonantti on resonantti (/l/, /r/, /m/, /n/ tai /?/) ja toinen ja kolmas konsonantti obstruentti (/p/, /t/, /k/ tai /s/), esimerkiksi sanoissa palkka, kanssa ja konsti.[64] Neljän konsonantin yhtymiä on lähinnä lainasanoissa, kuten demonstraatio ja abstrakti.[65]
+Tavu- ja sanarakenne
+
+Suomessa on 10 perustavaa tavutyyppiä, jos konsonanttiyhtymillä alkavia tavuja ei lasketa mukaan.[66]
+Perustavat tavutyypit V 	o.sa 	KV 	ta.lo
+VK 	es.te 	KVK 	tas.ku
+VV 	au.to 	KVV 	saa.ri
+VVK 	aal.to 	KVVK 	viet.to
+VKK 	ark.ku 	KVKK 	kilt.ti
+
+Suomen perussanojen vartalot ovat tyypillisesti kaksitavuisia ja vokaaliloppuisia.[67] Yksitavuisia sanoja on vähän, ja niistä suurin osa on funktiosanoja, kuten pronomineja (me, te, hän, se), konjunktioita (ja, kun, jos), kieltoverbi ei ja kopulaverbin yksikön 3. persoona on.[68][69] Kolmi- ja useampitavuiset sanat ovat usein johdoksia (kalaisa, kalastaa) tai yhdyssanoja (kalakeitto, kalankasvatus).[70][68]
+
+Periaatteessa suomen kielen sanat voivat olla hyvinkin pitkiä, koska yhdessä sanassa voi olla useita johtimia ja sen lisäksi vielä taivutussuffikseja. Jonkin verran kaukaa haettu esimerkki on järjestelmällistyttämättömyydellänsäkään.[71] Kielitoimiston sanakirjan pisimmät sanat ovat yhdyssanoja, kuten pyyhkäisyelektronimikroskooppi ja elintarviketurvallisuusvirasto.[72]
+Prosodia
+
+Suomessa sanan pääpaino on aina ensimmäisellä tavulla ja sanan viimeinen tavu on painoton. Nelitavuisissa ja pidemmissä sanoissa voidaan erottaa myös sivupaino. Paino on yleensä joka toisella tavulla, esimerkiksi 'kirjoi?tetta?vissa (sivupaino 3. ja 5. tavulla). Yhdyssanoissa sivupaino on jälkimmäisen osan ensimmäisellä tavulla: 'maan?tie, 'matala?palkkainen.[73] Painottomat tavut eivät redusoidu, vaan kaikki äänteet äännetään samalla tavalla painoasemasta riippumatta, toisin kuin esimerkiksi englannissa. Koska pääpaino on aina sanan alussa, sananrajat korostuvat erityisen selvästi.[74] Pääpainon sijoittuminen ensimmäiselle tavulle on tyypillistä uralilaisissa kielissä.[75]
+
+Normaalipainotuksessa suomen väitelauseen sävelkulku eli intonaatio on laskeva, ja lausuma voi päättyä narinaan.[76] Lausepaino liittyy lausuman informaatiorakenteeseen niin, että uutta asiaa sisältävä sana tai lauseke (reema) saa lausepainon. Sävelkorkeus nousee hieman reeman alussa ja laskee sitten suhteellisen jyrkästi.[77] Kysymys- ja käskylauseissa intonaatio on myös laskeva, mutta ne alkavat korkeammalta kuin väitelauseet ja laskevat muutaman tavun jälkeen äänialan keskivaiheille.[78][79] Sävelkulun lasku on myös merkki siitä, että puhuja on lopettamassa puheenvuoronsa.[80][79]
+
+Vaikka suomessa intonaatio laskee yleensä lausuman lopussa, se voi myös nousta esimerkiksi kohteliaissa ilmauksissa, kuten huomenta tai kiitos. Nouseva intonaatio voi liittyä myös tunteita, kuten harmistumista, epäilyä tai pelkoa ilmaiseviin lausumiin.[81]
+Sananrajaiset äänneilmiöt
+
+Suomen kielelle tyypillinen sandhi-ilmiö eli sanarajan yli vaikuttava äänneilmiö on rajageminaatio. Rajageminaatio näkyy seuraavan sanan alkukonsonantin geminoitumisena: esimerkiksi mene pois äännetään /meneppois/ [menep?ois]. Jos seuraava sana alkaa vokaalilla, sanarajalla voi esiintyä pidentynyt glottaaliklusiili: [mene? ?ulos].[82][83] Kielitieteellisessä tekstissä rajageminaatiota merkitään rivinylisellä x-kirjaimella, esimerkiksi sadex.[84][83] Rajageminaation esiintyminen vaihtelee, mutta se on säännöllisintä seuraavissa sananmuototyypeissä:[82][85]
+
+    A-infinitiivi: saako tullax
+    indikatiivin preesensin kieltomuoto: en otax
+    2. persoonan imperatiivi: tulex, annax
+    e-päätteisten sanojen yksikön nominatiivi: sadex, puoluex.[82][85]
+
+Rajageminaation lisäksi glottaaliklusiili tai heikompi glottaalinen supistuma voi esiintyä myös vokaalialkuisten sanojen edessä, missä se toimii sananrajan osoittimena. Esimerkiksi sanaparit saa tavata ja saat avata ääntyvät eri tavalla niin, että jälkimmäisessä on glottalisaatio: [s??t????t?]. Glottalisaatiota esiintyy myös yhdyssanan osien rajalla, kuten sanassa juhannusyö [juh?n?us?yo].[86]
+
+Nasaaliassimilaatiossa /n/ assimiloituu seuraavaan konsonanttiin. Klusiilin edellä nasaali mukautuu klusiilin ääntöpaikkaan: tytön pää [tytompa?], tytön kello [tyto?kel?o]. Loppu-/n/ voi myös assimiloitua kokonaan seuraavaan konsonanttiin, jos se on /m/, /j/, /v/, /l/ tai /r/, esimerkiksi järven muta [jar?em?ut?], järven ranta [jar?er??nt?].[87]
+
+Sanan lopussa myös vokaalit voivat kadota, mitä kutsutaan loppuheitoksi. Yleisintä on sanaloppuisen /i/:n kato, kuten sanoissa hyppäs ja suureks, sekä lukusanoissa yks, kaks, viis ja kuus. Vokaalialkuisen sanan edellä loppuheitto voi aiheuttaa elisiota, eli kaksi sanaa äännetään yhteen: siinä on [si?non].[88]
+Kielioppi
+
+    Pääartikkeli: Suomen kielioppi
+
+Sanaluokat
+
+Suomen kielen sanaluokat voidaan jakaa taivutuksen perusteella kolmeen ryhmään:[89]
+
+    Nominit, jotka taipuvat luvun ja sijan mukaan. Nominit voidaan jakaa syntaktisin ja semanttisin perustein neljään ryhmään, jotka ovat substantiivit, adjektiivit, pronominit ja numeraalit. Substantiiveilla ei ole kieliopillista sukua, toisin kuin useimmissa Euroopan kielissä ja noin puolessa koko maailman kielistä.[90]
+    Verbit, jotka taipuvat persoonan, tempuksen ja moduksen mukaan. Verbien nominaalimuodot eli infinitiivit ja partisiipit taipuvat tosin osittain samalla tavalla kuin nominit.
+    Adpositiot, adverbit ja partikkelit, jotka eivät taivu tai taipuvat vain osittain.
+
+Vartalot ja sidonnaiset morfeemit
+
+Suomen kielessä vapaita eli leksikaalisia morfeemeja ovat sanojen vartalot. Sidonnaiset eli kieliopilliset morfeemit ovat suffikseja, jotka liitetään sanavartalon perään.[91][92] Nomineilla vartalo voi esiintyä itsenäisesti yksikön nominatiivissa, mutta verbeillä vartalon perässä on yleensä aina jokin sidonnainen morfeemi: sano+n, sano+i.[93] Sidonnaisia morfeemeja ovat taivutustunnukset, liitteet ja johtimet.[92]
+
+Taivutustunnukset edustavat tiettyä taivutuskategoriaa, kuten esimerkiksi imperfektiä ja yksikön 1. persoonaa verbimuodossa tul+i+n, ja ne liittyvät sanan vartaloon.[94] Liitteet puolestaan eivät kiinnity vartaloon vaan sanaan, jossa voi olla taivutustunnuksia, kuten kysymysliite sanassa olit+ko.[95] Johtimet liittyvät sanavartaloon ja muodostavat uusia sanoja, kuten kana+la, keng+ittää tai pilku+llinen.[96]
+Nominien taivutus
+Luku
+
+Suomen nomineilla on kaksi lukua: yksikkö ja monikko. Yksikkö on tunnukseton. Monikon nominatiivissa tunnus on t, esimerkiksi valo+t. Muissa sijoissa monikon tunnus on i tai vokaalien välissä j, ja se tulee vartalon perään ennen sijapäätettä, esimerkiksi valo+i+ssa : valo+j+a.[97][98]
+Sijamuodot
+Suomen kielen sijamuodot ja niiden päätteet[99]
+Sija 	Yksikkö 	Pääte 	Monikko 	Pääte
+Kieliopilliset sijat
+nominatiivi 	tuttu 	– 	tutu+t 	-t
+genetiivi 	tutu+n 	-n 	tuttu+j+en, tuotte+i+den ~ tuotte+i+tten, nais+ten, vanho+j+en ~ vanha+in 	-en, -den ~ -tten, -ten, -in
+akkusatiivi 	minu+t 	-t 	meidä+t 	-t
+partitiivi 	tuttu+a, maa+ta 	-A, -tA 	tuttu+j+a, tuotte+i+ta 	-A, -tA
+Abstraktit paikallissijat
+essiivi 	tuttu+na 	-nA 	tuttu+i+na 	-nA
+translatiivi 	tutu+ksi 	-ksi 	tutu+i+ksi 	-ksi
+Varsinaiset paikallissijat
+inessiivi 	tutu+ssa 	-ssA 	tutu+i+ssa 	-ssA
+elatiivi 	tutu+sta 	-stA 	tutu+i+sta 	-stA
+illatiivi 	tuttu+un, maa+han, tuottee+seen 	-Vn, -hVn, -seen 	tuttu+i+hin, tuotte+i+siin, poik+i+in 	-hin, -siin, -in
+adessiivi 	tutu+lla 	-llA 	tutu+i+lla 	-llA
+ablatiivi 	tutu+lta 	-ltA 	tutu+i+lta 	-ltA
+allatiivi 	tutu+lle 	-llex 	tutu+i+lle 	-llex
+Vajaakäyttöiset sijat
+abessiivi 	tutu+tta 	-ttA 	tutu+i+tta 	-ttA
+instruktiivi 			tutu+i+n 	-in
+komitatiivi 			tuttu+i+ne- + POS 	-ine
+
+Suomessa on 15 sijamuotoa, joista akkusatiivi esiintyy vain persoonapronomineissa (minut, sinut jne.) ja kysymyssanassa kenet.[100] Sijamuotojen määrä on suomessa poikkeuksellisen suuri, sillä monissa maailman kielissä ei ole ollenkaan sijamuotoja tai jos niitä onkin, tavallisimmin määrä on 6–7. Tosin unkarissa on peräti 21 sijamuotoa.[101] Uralilaisissa kielissä on yleensäkin runsaasti sijamuotoja.[25]
+Omistusliitteet
+
+Omistusliitteet eli possessiivisuffiksit ilmaisevat nominien yhteydessä omistusta tai muuta yhteen kuuluvuutta, esim. minun kotoani, meidän kaltaisemme. Omistusliitteitä käytetään myös joidenkin verbin nominaalimuotojen kanssa, jolloin ne ilmaisevat tekijää: saadakseni, syödessään, huomaamattaan.[102][103][104] Omistusliitteiden käyttö on uralilaisille kielille tyypillinen piirre.[25]
+Omistusliitteet[102][104] Persoona 	yksikkö 	monikko
+1. 	kirja+ni 	-ni 	kirja+mme 	-mme
+2. 	kirja+si 	-si 	kirja+nne 	-nne
+3. 	kirja+nsax 	-nsAx 	kirja+nsax 	-nsAx
+kirjassa+an 	-Vn 	kirjassa+an 	-Vn
+
+Puhutussa kielessä omistusliitteitä ei välttämättä käytetä, etenkään silloin, kun omistaja ilmenee persoonapronomista, esimerkiksi minun ~ mun autolla. Omistusliitteiden käytössä on kuitenkin paljon vaihtelua, ja esimerkiksi yksikön toisessa persoonassa se on melko yleinen: Mitä sä laitat päälles?[105][106]
+Komparaatio
+
+Komparaatio- eli vertailumuotoja on kaksi, komparatiivi ja superlatiivi. Suomen kielessä komparaatio on taivuttamisen ja johtamisen rajatapaus.[107][108]
+Komparaatio[109][108] 	komparatiivi 	superlatiivi
+yks. nom. 	iso+mpi 	-mpi 	iso+in 	-in
+yks. gen. 	iso+mma+n 	-mmA- 	iso+imma+n 	-immA-
+yks. ill. 	iso+mpa+an 	-mpA- 	iso+impa+an 	-impA-
+Verbien taivutus
+
+Verbien taivutusmuodot jaetaan kahteen luokkaan: finiittisiin ja infiniittisiin.[110]
+
+    Finiittiset eli persoonamuotoiset verbit taipuvat persoonamuodoissa, aikamuodoissa sekä moduksissa.[111]
+    Infiniittiset verbimuotoja ovat infinitiivit ja partisiipit. Niissä voi olla nominien taivutuspäätteitä, kuten sijamuodon ja monikon tunnus tai possessiivisuffiksi.[112]
+
+Suomessa kielto ilmaistaan verbillä ei, joka taipuu persoonamuodoissa: en, et, ei, emme, ette, eivät. Taipuva kieltoverbi on suhteellisen harvinainen, sillä vastaava rakenne tunnetaan noin 9 %:ssa maailman kielistä. Noin puolessa kielto ilmaistaan erillisellä partikkelilla, kuten ranskan ne tai ruotsin inte.[113] Muuten suomen verbitaivutusta ei voi pitää universaalisti kovin monimutkaisena, koska yhdellä verbimuodolla voi ilmaista kerrallaan vain kolmea taivutuskategoriaa, jotka ovat passiivi, modus tai aikamuoto ja persoona, esimerkiksi men+tä+isi+in. Maailman eri kielissä verbeillä on yleisesti 4–5, enimmillään jopa 13 taivutuskategoriaa.[101]
+Persoona ja passiivi
+
+Suomen verbit taipuvat kolmessa persoonassa yksikössä ja monikossa, joten suomessa on kuusi kieliopillista persoonaa: yksikön 1. (minä), 2. (sinä) ja 3. (hän) persoona sekä monikon 1. (me), 2. (te) ja 3. (he) persoona.[114][111][115] Puhekielessä monikon 1. persoonassa käytetään yleisesti mme-päätteisen persoonamuodon asemesta passiivimuotoa, esimerkiksi me tehdään.[116]
+Persoonamuodot[115] 	yksikkö 	monikko
+1. 	sano+n 	-n 	sano+mme 	-mme
+2. 	sano+t 	-t 	sano+tte 	-tte
+3. 	sano+o 	-V 	sano+vat 	-vAt
+
+Persoonamuotoihin lasketaan myös yksipersoonainen passiivi. Passiivimuotoisessa lauseessa ei ole subjektia, joten sen avulla tapahtumaa voi kuvata ilmaisematta tekijän tai osallistujan identiteettiä.[114][117] Passiivimuodoista voidaan erottaa passiivin tunnus tA ja persoonapääte -Vn, kuten sano+ta+an.[115]
+Tempus
+
+Suomessa on neljä aikamuotoa: preesens, imperfekti, perfekti ja pluskvamperfekti. Preesensillä ei ole tunnusta, ja imperfektin tunnus on i. Perfekti ja pluskvamperfekti ovat liittomuotoja, jotka muodostetaan olla-verbistä ja pääverbin partisiippimuodosta.[118][119]
+Tempukset[118] preesens 	kerron
+imperfekti 	kerroin
+perfekti 	olen kertonut
+pluskvamperfekti 	olin kertonut
+
+Suomen kielessä ei ole futuuria, mutta tulevaan aikaan voidaan viitata verbiliitoilla, joita ei lueta mukaan tempusjärjestelmään: tulee olemaan, on oleva.[120][121]
+Modus
+
+Finiittiverbien tapaluokkia eli moduksia on neljä: indikatiivi, imperatiivi, konditionaali ja potentiaali.[122][123]
+Modukset[123] indikatiivi 	kerro+n
+konditionaali 	kerto+isi+n
+potentiaali 	kerto+ne+n
+imperatiivi 	kerrox
+kerto+kaa
+
+Muissa moduksissa kuin indikatiivissa mennyttä aikaa ilmaistaan vain perfektillä: olisi kertonut (konditionaali), lienee kertonut (potentiaali) ja olkoon kertonut (imperatiivi).[124][118]
+Infiniittiset muodot
+
+Verbien infiniittisiä muotoja ovat infinitiivit ja partisiipit. Niillä on eräitä nominien ominaisuuksia, esimerkiksi sijapäätteitä ja omistusliitteitä, eikä niitä ei voi taivuttaa tempuksen ja moduksen mukaan kuten finiittisiä verbejä.[125][112]
+
+Infinitiivit käyttäytyvät lauseessa substantiivien tapaan. Ne ovat vähemmän nominaalisia kuin partisiipit, sillä niillä on vajaa sijataivutus eikä niillä voi ilmaista monikkoa.[126][112][127]
+
+    A-infinitiivi (1. infinitiivi): kerto+a. A-infinitiiviä käytetään sanakirjoissa verbin hakumuotona.
+    E-infinitiivi (2. infinitiivi): kerto+e+ssa, kerro+tta+e+ssa, kerto+e+n.
+    MA-infinitiivi (3. infinitiivi): kerto+ma+ssa, kerto+ma+sta, kerto+ma+an, kerto+ma+lla, kerto+ma+tta, kerto+ma+n.
+    Joissain kieliopeissa on erotettu myös 4. infinitiivi (esimerkiksi sitä ei käy epäileminen, yltyy yltymistään), ja 5. infinitiivi (olla putoamaisillaan).[128][126]
+
+Partisiipit käyttäytyvät lauseessa adjektiivien tapaan: ne voivat olla esimerkiksi substantiivien määritteitä.[129][130] Niillä on täysi luku- ja sijataivutus kuten nomineilla.[112]
+
+    VA-partisiippi (1. partisiippi): aktiivissa kerto+va, passiivissa kerrotta+va.
+    NUT-partisiippi (2. partisiippi): aktiivissa kerto+nut, passiivissa kerro+ttu.
+    agenttipartisiippi: kerto+ma. Agenttipartisiippi esiintyy lauseissa, joissa tekijä (agentti) on ilmaistu genetiivilla tai omistusliiitteellä, esimerkiksi Liisan tekemä esitys, maksamani lasku.
+    kieltopartisiippi: kerto+maton.
+
+Morfofonologinen vaihtelu
+
+Morfofonologinen vaihtelu tarkoittaa sitä, että morfeemin (sanavartalon tai suffiksin) äänneasu vaihtelee eri ympäristöissä.[131] Sanavartaloa koskevista morfofonologisista vaihteluista yleisimmät ovat astevaihtelu ja vartalon loppuvokaalin vaihtelu.[132]
+
+Astevaihtelua on pidetty jopa yhtenä suomen äänne- ja muotorakenteen luonteenomaisimmista piirteistä.[133] Astevaihtelu koskee klusiileita (k, p, t) silloin, kun niiden edellä on vokaali tai soinnillinen konsonantti (l, m, n, r tai h). Vaihtelussa on kaksi astetta: vahva ja heikko. Kvantitatiivisessa astevaihtelussa vahvassa asteessa on geminaatta ja heikossa yksinäisklusiili, esimerkiksi takki : takissa, tappaa : tapan ja matto : matolla. Kvalitatiivisessa astevaihtelussa vahvassa asteessa on yksinäisklusiili, joka katoaa tai muuttuu toiseksi äänteeksi heikossa asteessa, esimerkiksi hakee : haen, kutoo : kudon ja rampa : ramman.[134][133]
+
+Vartalon loppuvokaalissa esiintyy vaihtelua etenkin silloin, kun siihen liittyy monikon tai imperfektin i-tunnus. Vaihtelu koskee vartaloita, joiden lopussa on a, ä, e, i, pitkä vokaali tai diftongi. Esimerkiksi kastan : kastoin, päivää : päiviä, nimeä : nimiä, lasina : laseina, maata : maita, vien : vein.[132][135]
+Liitepartikkelit
+
+Liitepartikkelit eivät liity sanan vartaloon vaan sananmuotoon, joka esiintyy myös itsenäisenä. Esimerkiksi sanassa töissä+hän on itsenäinen sananmuoto töissä ja liitepartikkeli -hän.[95] Suomessa on seuraavat liitepartikkelit:[136]
+
+    -kin ja -kAAn: lapsikin ymmärtää, lapsikaan ei ymmärrä[137]
+    -kO: Tuletko sinä mukaan?, Sinäkö se olit?[138]
+    -hAn: mehän tiedettiin kaikki se, Mikkohan se siinä, Onhan täällä luento?[139]
+    -pA: Selviänpä!, vastustipa hän tai ei, siinäpä se[140]
+    -s: enpäs, oletkos, väliäkös sillä.[141]
+
+Lausekkeet ja lauseenjäsenet
+
+Suomessa on seuraavanlaisia lausekkeita, jotka nimetään edussanan (lihavoitu) mukaan:[142][143]
+
+    substantiivilauseke: tämä viimeinen kohta
+    adjektiivilauseke: vähän outo
+    adpositiolauseke: ennen viimeistä kohtaa
+    adverbilauseke: erittäin usein
+    infinitiivilauseke: lähtemään kotiin
+    partisiippilauseke: vastausta odottava.
+
+Lausekkeet toimivat lauseenjäseninä, eli niillä on lauseessa tietty tehtävä.[144] Lausekkeiden lisäksi suomessa on taipumattomia pikkusanoja, kuten partikkeleita (esimerkiksi niin ja kyllä), jotka sävyttävät koko lauseen merkitystä, ja konjunktioita (kuten että, jos), jotka liittävät lauseita toisiinsa.[145]
+Peruslausetyypit
+
+Lauseita voidaan jakaa peruslausetyyppeihin sen mukaan, mitä lauseenjäseniä niissä on verbin lisäksi.[146]
+
+    Intransitiivilause: Koira haukkuu, Lapset ovat puistossa, Setäni asuu maalla.
+    Transitiivilause: Isä pesee autoa, Mies rakensi talon kalliolle.
+    Predikatiivilause: Haanpää oli kirjailija, Kirjoittaminen on työlästä.
+    Eksistentiaalilause: Autotallissa oli vettä, Ovella seisoi kauppias. Eksistentiaalilause esittelee tekstissä olevan uuden tarkoitteen (reeman), ja esimerkiksi englannissa sitä vastaa there is -rakenne.
+    Omistuslause: Koiralla on luu, Kaikilla ei ole televisiota. Suomessa omistus ilmaistaan peruslausetyypillä, eikä suomessa ole sellaista omistamista merkitsevää verbiä kuin latinan habere tai englannin have. Vastaava rakenne tunnetaan kuitenkin monissa maailman kielissä, kuten esimerkiksi venäjässä.[113]
+    Tuloslause: Pertistä tuli tohtori, Kahvista tuli liian väkevää.
+    Tilalause: Sataa, Täällä on kylmä, Nyt on yö.
+    Kokijalause: Minua onnisti, Hänelle kävi ikävästi.
+
+Sanajärjestys
+
+Suomen kielen sanajärjestys on melko vapaa siinä mielessä, että lauseenjäsenet voivat sijoittua eri järjestykseen ilman, että lauseesta tulee kieliopin vastainen tai sen kuvaama asiantila muuttuu, koska sanojen kieliopillinen tehtävä käy ilmi niiden taivutusmuodoista eikä sitä tarvitse ilmaista sanajärjestyksellä.[147][148] Tässä suhteessa suomi eroaa esimerkiksi englannista, jossa sanajärjestyksen muutos aiheuttaa myös lauseen merkityksen muutoksen.[149]
+
+Tavallinen eli neutraali sanajärjestys on SVO, eli subjekti tulee ennen verbiä ja objekti sen jälkeen. Se on Euroopan kielissä vallitseva sanajärjestys.[149] Jos lauseen pääjäsenet ovat jossain toisessa järjestyksessä, lause ei kuvaa pelkästään asiantilaa vaan se välittää muitakin merkityksiä. Esimerkiksi lause Löysin minä sieniä alkaa verbillä, mikä korostaa lauseen paikkansapitävyyttä. Puhutussa kielessä tätä ilmaistaan myös sanoja painottamalla.[147] Sanajärjestykseen vaikuttaa myös se, että vastaanottajalle tutuksi oletettu asia eli teema esitetään ensin ja uusi asia eli reema vasta sitten.[150] Silloin subjekti voi tulla myös lauseen loppuun, esimerkiksi Elokuvan on ohjannut Woody Allen tai Pieniä nisäkkäitä ovat myös lepakot.[151]
+Lauseenvastikkeet
+
+Lauseenvastikkeet ovat rakenteita, joissa on jokin verbin infinitiivi- tai partisiippimuoto ja joiden voidaan ajatella vastaavaan sisällöltään kokonaista lausetta.[152] Lauseenvastikkeet ovat uralilaisten kielten alkuperäinen piirre, mutta vastaavia rakenteita tunnetaan muissakin maailman kielissä.[153]
+Lauseenvastikkeet[154] Nimi 	Esimerkki 	Vastaava lause
+referatiivinen[155][154] 	Sanoin sinun lähtevän. 	Sanoin, että sinä lähdet.
+Aavistin hänen luopuneen. 	Aavistin, että hän on luopunut.
+temporaalinen[156][157] 	Se tapahtui hänen tullessaan kotiin. 	Se tapahtui, kun hän tuli kotiin.
+Tein sen hänen tultuaan kotiin. 	Tein sen, kun hän oli tullut kotiin.
+finaalinen[158][159] 	Lähdin maalle levätäkseni. 	Lähdin maalle, jotta lepäisin.
+modaalinen[160][161] 	Tyttö nauroi kaikkien nähden. 	Tyttö nauroi niin, että kaikki näkivät.
+Poistuin kenenkään huomaamatta. 	Poistuin siten, että kukaan ei huomannut.
+statusrakenne[162][163] 	Poika hyppäsi veteen pää edellä. 	Poika hyppäsi veteen siten, että pää oli edellä.
+Sanasto
+
+    Pääartikkeli: Suomen kielen sanasto
+
+Perussanat ja kompleksiset sanat
+
+Perussanan vartalo on yksimorfeeminen, eli sitä ei voi jakaa pienempiin osiin, kuten syy ja pestä. Kompleksiset sanat ovat johdoksia tai yhdyssanoja: esimerkiksi syytön ja pesettää ovat johdoksia ja syypää ja aivopestä yhdyssanoja.[70][164] Valtaosa suomen sanastosta on kompleksisia sanoja. Nykysuomen sanakirjassa on 210 000 sanaa, joista 64,8 % on yhdyssanoja ja 26,6 % johdoksia. Perussanoja on huomattavasti vähemmän. Suomen murteissa on arvioitu olevan yhteensä noin 10 000 perussanaa, ja Nykysuomen sanakirjassa on vajaat 18 000 perussanaa. Jos yleiskielen sanastosta poistetaan nuoret vierasperäiset sanat, jäljelle jää noin 6 000 omaperäistä perussanaa.[165]
+Yhdyssanat
+
+Yhdistämisessä sanat liitetään toisiinsa yhdeksi sanaksi, yhdyssanaksi. Yhdistäminen on rekursiivista, eli yhdyssanoista voidaan muodostaa edelleen uusia yhdyssanoja, esimerkiksi puutarhanhoito tai sähköparranajokone. Yhdyssanojen määrä on periaatteessa rajaton, ja vain osa niistä on niin vakiintuneita, että ne mainitaan esimerkiksi sanakirjoissa. Joskus yhdyssanan merkityksen voi päätellä sen osien merkityksestä, mutta ei aina: esimerkiksi hiekkatie on hiekalla päällystetty tie, mutta rautatie ei ole rautapäällysteinen tie.[166][167]
+
+Rakenteeltaan selvästi yhdyssanoja ovat seuraavat tapaukset:[168]
+
+    määriteosa on nominatiivissa oleva substantiivi: kivitalo, tiiliseinäinen, pakkosyöttää
+    määriteosa on yhdyssanamuoto, joka on erinäköinen kuin itsenäinen sana: kirjoittamisvaikeus, asuinpaikka, kuorimaveitsi
+    määriteosa ei esiinny lainkaan itsenäisenä sanana: sisäpuoli, täsmäase, epätavallinen
+    edusosa on adjektiivi, joka ei voi esiintyä ilman määriteosaa: hyväsydäminen, vapaaehtoinen, kaksivuotias
+    määriteosa on taipumaton adjektiivi ja edusosa substantiivi: märkäpuvussa on yhdyssana mutta märässä puvussa kaksi eri sanaa.
+
+Kiteytymiseksi kutsutaan sitä, että kaksi sanaa esiintyy yhdessä niin usein, että ne tiivistyvät yhdeksi sanaksi ja usein niiden merkitys muuttuu. Esimerkiksi yhdyssana vanhapoika tarkoittaa eri asiaa kuin vanha poika.[168]
+Johdokset
+
+Johtamisessa uusi sana muodostetaan lisäämällä kantasanaan johdin, esimerkiksi kana > kanala. Uutta sanaa kutsutaan johdokseksi. Johdoksesta voidaan johtaa edelleen uusi johdos: lentää > lennättää > lennätin. Johdoksen merkitys perustuu usein sen kantasanan ja johdostyypin merkitykseen. Esimerkiksi johtimella -lA muodostetaan paikannimiä, kuten myymälä ja sairaala, ja johtimella -in välineennimiä, kuten kytkin ja tuuletin.[169][170]
+
+Sellaisia johdostyyppejä, joihin voidaan jatkuvasti ja säännöllisesti johtaa uusia sanoja, kutsutaan produktiivisiksi. Produktiivisten johdosten merkitys on läpinäkyvä, eli se määräytyy kantasanan ja johtimen perusteella. Ne ovat usein tilapäisiä tai vakiintumattomia, eikä niitä luetella sanakirjoissa kattavasti. Produktiivisia johdostyyppejä ovat muun muassa seuraavat:[171]
+
+    lAinen: yhteenkuuluuvuus, usein jonkin ryhmän jäsenyys, kuten koululainen, paholainen ja kerjäläinen.[172]
+    (U)Us: ominaisuus. Muodostetaan yleensä adjektiiveista, kuten pienuus, mielikuvituksettomuus, tehokkuus, mutta joskus myös substantiiveista, kuten äitiys tai opettajuus.[173]
+    minen: teonnimi. Voidaan muodostaa melkein kaikista verbeistä. Esimerkiksi uiminen, näkeminen, siivoaminen, liittyminen, eristäytyminen.[174]
+    jA: tekijännimi. Esimerkiksi vetäjä, lukija, siivooja.[175]
+    ele ~ ile: frekventatiivinen verbi, eli tapahtuma toistuu useaan kertaan tai on jatkuvaa.[176] Niitä voidaan muodostaa sekä verbeistä, kuten heitellä, katsella, hyökkäillä, että nomineista, kuten riidellä ja nyrkkeillä.[177]
+    tOn: karitiivinen adjektiivi, eli ilmaisee kantasanan puuttumista: lai-ton, kritiiki-tön, tuntee-ton. Verbeistä muodostettaessa johdin on mAtOn, esimerkiksi vetämätön, ohittamaton.[178]
+    stix: määrää tai tapaa kuvaava adverbi, esimerkiksi herkästi, kauniisti, monipuolisesti, samettisesti, aikataulun mukaisesti. Voidaan muodostaa useimmista adjektiiveista, mutta myös numeraaleista (kahdesti) ja joistakin substantiiveista, kuten kiireesti, leikisti tai helvetisti.[179][180]
+
+Sanaston alkuperä
+Omaperäiset sanat
+
+Suomen kielen vanhimmat sanat ovat peräisin uralilaisesta kantakielestä.[181] Eri kriteereillä tämän uralilaiseen sanaston lukumäärä vaihtelee n. 150:stä[182] lähelle 500:aa.[183] Suomen kielessä yhä käytössä olevat, uralilaiset sanat kuvaavat esimerkiksi sukulaisia (anoppi, isä, miniä, setä), ruumiinosia (jänne, pää, silmä, sydän), eläimiä (kala, koira, kyy, varis), kasveja (koivu, kuusi, puu), metsästystä ja luonnossa liikkumista (jousi, nuoli, suksi, soutaa) ja keskeisiä toimintoja (elää, kuolla, mennä, niellä).[184] Tästä sanastosta on päätelty, että kantakielen puhujat ovat asuneet pohjoisilla seuduilla ja harjoittaneet metsästystä, kalastusta ja keräilyä.[185]
+
+Vanhojen omaperäisten sanojen osuus suomen kielen sanastosta on määrällisesti melko pieni, mutta monet niistä ovat hyvin yleisiä, kuten se, ei, hän ja olla. Lisäksi ikivanhoista pronominivartaloista on johdettu paljon yleisiä sanoja, kuten että, sekä, kun ja kuin. Yhteensä voidaan arvioida, että nykysuomen 100 yleisimmästä sanasta 40 % ja 1 000 yleisimmistä sanasta 10 % perustuu uralilaisen kantakielen sanastoon.[186]
+Lainasanat
+
+Suomen kielen vanhimmat lainasanat ovat peräisin indoeurooppalaisesta kantakielestä, kuten jyvä, mehiläinen, mesi ja porsas. Ne on ilmeisesti lainattu jo uralilaiseen kantakieleen.[187][188] Balttilaisia ja vanhoja germaanisia lainasanoja on itämerensuomalaisissa ja saamelaiskielissä, mutta ei juuri idempänä. Suomessa balttilaisia lainasanoja on toistasataa (esimerkiksi morsian, hammas, herne ja seinä) ja vanhoja germaanisia lainasanoja noin 500 (esimerkiksi äiti, leipä, rauta ja huone). Lainasanojen perusteella on päätelty, että kantasuomalaisilla on ollut tiiviit suhteet balttilaisten ja germaanisten kielen puhujiin ja heiltä on opittu karjanhoitoa, kehittyneempää maanviljelyä, tekniikkaa ja metallin käsittelyä.[189][190]
+
+Slaavilaisia lainasanoja suomessa on noin 300. Esimerkiksi varhaisimmat kristinuskoon liittyvät sanat risti, pappi ja pakana ovat slaavilaisia, vaikka kristinusko onkin tullut Suomeen lännestä.[191][192] Myöhemmin Suomeen on lainautunut sanoja myös nykyvenäjästä, kuten pomo, kanava, kapakka ja viesti.[193]
+
+Eniten lainasanoja suomeen on tullut ruotsista. Vanhimpia ruotsalaislainoja ovat esimerkiksi kummi, kaupunki, tuoli, housut ja sakset, ja lainoja on tullut sen jälkeen jatkuvasti. Ruotsin välityksellä suomeen on tullut myös paljon latinalais- ja kreikkalaisperäistä sanastoa (esim. kirkko, koulu, kartta, leijona, historia).[194] Nykyisessä suomen kirjakielessä arvioidaan olevan toistatuhatta ruotsalaista lainasanaa. Viimeisen sadan vuoden aikana ruotsin vaikutus on vähentynyt ja dominoivaksi kulttuurikieleksi on etenkin toisen maailmansodan jälkeen noussut englanti.[195] Kaikki englantilaiset lainasanat eivät kuitenkaan ole nuoria, vaan jo 1800-luvulla on lainattu esimerkiksi rommi, pihvi, timotei, muki ja tunneli.[196]
+
+Suomen tuhannesta yleisimmästä kantasanasta on varovaisesti arvioiden yli kolmannes lainaperäisiä. Suomen kielen professorin Kaisa Häkkisen mukaan suomea voikin nykyisen sanastonsa suhteen pitää pitkälti indoeurooppalaisena kielenä.[197]
+Kirjoitusjärjestelmä
+
+    Pääartikkeli: Suomen kielen aakkoset
+
+Broom icon.svg
+	Tätä artikkelia tai sen osaa on pyydetty parannettavaksi, koska se ei täytä Wikipedian laatuvaatimuksia.
+Voit auttaa Wikipediaa parantamalla artikkelia tai merkitsemällä ongelmat tarkemmin. Lisää tietoa saattaa olla keskustelusivulla.
+Tarkennus: Kappale yhdenmukaistettava artikkelin Suomen kielen aakkoset tietojen kanssa. Foneemitaulukko erilainen.
+
+Suomen kielessä käytetään latinalaisia kirjaimia, jotka ovat aakkosjärjestyksessä A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, (Š), T, U, V, W, X, Y, Z, (), A, Ä ja Ö.[198] Kirjaimia C, Q, W, X, Z,  ja A tavataan sitaattilainoissa eli mukautumattomissa lainasanoissa.[199]
+
+Suomen kirjoitusjärjestelmä on melko fonemaattinen: yhtä äännettä eli foneemia vastaa aina sama kirjain ja yhtä kirjainta vastaa sama äänne. Poikkeuksena on /?/ eli ”äng-äänne”, jota merkitään n-kirjaimella silloin, kun se esiintyy yksinään k:n edellä (hanki), mutta geminaatta /??/ merkitään kirjainyhdistelmänä ng (kangas). Pitkää äännettä merkitään kahdella kirjaimella.[199] Kirjaimien ja äänteiden suhde voidaan esittää seuraavasti:[200][46]
+Kirjain 	A 	B 	D 	E 	F 	G 	NG 	H 	I 	J 	K 	L 	M 	N 	NK 	O 	P 	R 	S 	Š 	T 	U 	V 	Y 	Ä 	Ö
+Foneemi 	? 	b 	d 	e 	f 	g 	?? 	h 	i 	j 	k 	l 	m 	n 	?k 	o 	p 	r 	s 	? 	t 	u 	? 	y 	a 	o
+
+Kirjoitusjärjestelmän fonemaattisuuden vuoksi väitetään usein, että ”suomea puhutaan kuin kirjoitetaan” tai päinvastoin. Tämä ei kuitenkaan pidä paikkaansa, sillä puheessa on aina paljon allofonista ja prosodista vaihtelua, jota kirjoituksessa ei merkitä. Lisäksi suomea puhutaan vain harvoin täysin kirjoitetun kielen normien mukaisesti. Mitä vapaampaa puhekieli on, sitä enemmän se eroaa kirjakielestä; esimerkiksi onko äännetään /o?ks/, kauhea /kauhee/ ja viisikymmentäyksi /viiskytyks/.[201]
+
+Kirjoituksen ja ääntämisen välille eroa aiheuttavat lisäksi seuraavat ilmiöt:
+
+    rajageminaatio: esimerkiksi tule tänne äännetään /tulettänne/ ja sinnekään /sinnekkään/.[199]
+    n-äänteen assimilaatio: esimerkiksi kunpa /kumpa/.[199]
+    kirjainten b, g ja š ääntämys vaihtelee ja ne voidaan ääntää myös /p/, /k/ ja /s/.[199][202]
+    vierassanoissa etenkin konsonantit, mutta joskus myös vokaalit, voidaan ääntää pitkinä, vaikka ne kirjoitetaan yhdellä kirjaimella: arkeologia /arkkeologia/, bonus /boonus/.[203]
+
+Nämä erot voivat näkyä myös niin, että sanoja kirjoitetaan ääntämisen mukaan silloinkin, kun se rikkoo virallista oikeinkirjoitusta: esimerkiksi lähdempä, en tulekkaan, proileri tai krilli.[204][205]
+Historia
+
+    Pääartikkeli: Suomen kielen historia
+
+Kielihistoria
+Tuohikirje 292 on kirjoitettu 1200-luvun alussa. Se on vanhin tunnettu esimerkki itämerensuomalaisesta kirjoituksesta.
+
+Suomen kieli on muiden uralilaisten kielten tavoin kehittynyt uralilaisesta kantakielestä, jota on perinteisen näkemyksen mukaan puhuttu noin 6 000 vuotta sitten jossain Volgan keskijuoksun ja Ural-vuorten välisellä alueella.[206][207] Nykyään monet kielitieteilijät kuitenkin pitävät kantauralia huomattavasti nuorempana ja ajoittavat sen noin vuoteen 2000 eaa.[208][209] Nykyiset uralilaiset kielet eivät kuitenkaan ole kehittyneet suoraan kantauralista, vaan yleensä kantasuomen ja kantauralin välille oletetaan ainakin yksi välikantakieli.[210]
+
+Käsitykset siitä, milloin jotain suomensukuista kieltä on puhuttu nykyisen Suomen alueella, vaihtelevat. Vanhemman ajoituksen mukaan uralilainen kantakieli on yhdistetty kampakeraamiseen kulttuuriin, joka levisi Itämerelle asti jo noin vuosina 3900–3500 eaa.[211][212] Nykyään pidetään todennäköisempänä, että uralilaiset kielet ovat levinneet nykyisen Suomen alueelle vasta kun kantasaame ja kantasuomi ovat olleet erillisiä kielimuotoja. Ne ovat eronneet toisistaan ehkä vuoden 1000 eaa. jälkeen.[213] Kantasuomea on puhuttu ajanlaskun alun tienoille, jonka jälkeen siitä ovat alkaneet kehittyä nykyiset itämerensuomalaiset kielet.[214] Erillisistä kielistä tai murteista voidaan puhua noin vuodesta 500 alkaen.[215]
+
+Vuoden 1000 tienoilla Suomessa oli arkeologisten löytöjen perusteella neljä asutusaluetta, joiden on tulkittu edustavan myös neljää muinaismurretta: Varsinais-Suomi, Häme, Karjala ja Savo.[216] Myös vanhimmissa kirjallisissa lähteissä, kuten riimukivissä (Gs 13, U 582, G 319), kertomuksissa ja historiallisissa asiakirjoissa, on mainittu omina alueinaan Suomi (= Varsinais-Suomi), Häme ja Karjala, mahdollisesti myös Pohjanmaan rannikko eli kveenien asuma-alue. Tämä vanha heimojako on myös suomen murrejaon perusta.[217]
+Kirjoitetun kielen historia
+Varhaissuomen kausi (–1540)
+Mikael Agricola
+
+Varhaissuomen kaudelta, etenkin sen loppupuolelta tunnetaan jo tuhansia irrallisia suomenkielisiä nimiä ja sanoja, jotka on mainittu latinan- ja ruotsinkielisissä asiakirjoissa.[218][219] Esimerkiksi 1320-luvulla kirjoitetusta Eerikinkronikasta löytyy suomesta lainattuja sanoja, kuten uisko, haapio ja majapaikka.[220] Jotkin kirkolliset tekstit, kuten Isä meidän -rukous ja uskontunnustus on käännetty suomeksi ja oletettavasti myös kirjoitettu muistiin viimeistään 1400-luvulla, mutta käsikirjoituksia ei ole säilynyt.[219]
+Vanhan suomen kausi (1540–1820)
+
+Suomen kirjakieli syntyi uskonpuhdistuksen myötä 1500-luvulla. Piispa Mikael Agricola julkaisi ensimmäiset painetut suomenkieliset kirjat, kuten Abckiria 1543 ja Se Wsi Testamenti 1548. Yhteensä Agricola julkaisi yhdeksän teosta.[221] Tästä alkoi vanhan suomen kausi, joka kesti 1800-luvun alkupuolelle. Suomenkielinen kirjallisuus oli lähes kokonaan uskonnollista, ja suurin osa teksteistä oli käännetty ruotsista tai latinasta.[219][222] Raamattu käännettiin kokonaan suomeksi vuonna 1642.[223] 1700-luvulla alettiin jo julkaista enemmän muutakin kuin uskonnollista kirjallisuutta. Vuonna 1776 Antti Lizelius alkoi julkaista ensimmäistä suomenkielistä sanomalehteä nimeltään Suomenkieliset Tieto-Sanomat.[224]
+
+Vanhan kirjasuomen teksteissä on paljon käännöslainoja ja suomelle vieraita lauserakenteita, koska tekstit ovat enimmäkseen käännöksiä ja niiden kirjoittajat olivat oppineet ensin kirjoittamaan ruotsia ja latinaa.[222] Esimerkiksi Agricola saattoi korvata ruotsin tai saksan artikkelit sanoilla yksi ja se.[225] Oikeinkirjoitus, kuten äänteiden pituuden merkitseminen tai ä- ja e-äänteiden erotteleminen oli epäjohdonmukaista.[226]
+
+Kirjakieli perustui aluksi Turun seudun murteeseen, mutta myöhemmin vaikutteita tuli myös Hämeestä ja Satakunnasta.[222] Agricola itse kirjoitti käyttäneensä Uudessa testamentissa enimmäkseen ”suomenkieltä”, toisin sanoen Varsinais-Suomen murretta, mutta tarpeen vaatiessa myös muita murteita.[227]
+Abckiria
+Varhaisnykysuomen kausi (1820–1870)
+
+1800-luvun alkupuolella poliittiset muutokset (autonomian aika) ja kansallisromantiikan aatteet tekivät suomen kielen kehittämisen ajankohtaiseksi. Erityisesti J. V. Snellman korosti suomen kielen merkitystä koko maan aineellisen ja henkisen kehityksen kannalta. Vuonna 1831 perustettiin Suomalaisen Kirjallisuuden Seura, joka asetti tavoitteekseen suomenkielisen kirjallisuuden luomisen ja suomen kielen aseman parantamisen. Seura tuki myös vanhan kansanrunouden keräämistä ja julkaisemista. Elias Lönnrotin keruumatkojen tuloksena julkaistiin Kalevalan ensimmäinen versio, ns. vanha Kalevala vuonna 1835.[228]
+
+Kansanrunojen myötä suomen itämurteiden asema parani ja vanhan kirjakielen länsisuomalaisuutta alettiin arvostella. Tästä seurasi murteiden taisteluksi kutsuttu ajanjakso, joka päättyi kompromissiin: kirjakielen läntinen pohja säilyi, mutta siihen tuli uusia piirteitä itämurteista. Nykyinen suomen kieli perustuukin melko tasapuolisesti kaikkiin päämurteisiin.[229]
+
+1800-luvun alkupuolella luotiin myös suuri määrä suomenkielistä hallinto- ja kulttuurisanastoa. Erityisesti niitä loi Lönnrot, joka keksi tuhansia uusia sanoja eri oppialoille. Uusia sanoja luotiin usein vanhoista sanoista johtamalla ja yhdyssanoja muodostamalla. Johdoksia ovat esimerkiksi tiede (sanasta tietää), lukio (< lukea) ja kirjain (< kirja), yhdyssanoja taas lämpömittari, tasavalta ja puheenjohtaja. Myös murteista otettiin käyttöön sanoja, joiden merkitystä muutettiin tai täsmennettiin: esimerkiksi juna on merkinnyt alun perin ’jonoa’ ja kaasu ’kylmää sumua’.[230]
+
+Suomen kielen asema vahvistettiin virallisesti vuoden 1863 kieliasetuksella, jonka mukaan suomesta piti tulla 20 vuoden kuluessa ruotsin rinnalla tasa-arvoinen virkakieli.[231] 1870-luvulla suomen kielen ja suomenkielisen sivistyksen asema oli jo melko vakiintunut. Aleksis Kiven Seitsemän veljestä ilmestyi vuonna 1870. Suomenkielinen kaunokirjallisuus ja teatteri sai alkunsa, ja suomeksi julkaistiin useita sanoma- ja aikakauslehtiä. Suomea käytettiin koulun, hallinnon ja oikeuslaitoksen kielenä.[232][233]
+Nykysuomen kausi (1870–)
+
+Suomen kieli on jatkanut kehitystään myös nykysuomen kaudella. Etenkin erikoisalojen ja tekniikan kehityksen vaatimaa sanastoa on tullut ja tulee koko ajan lisää. Kun suomen kielen asema on vakiintunut ja yleinen sivistystaso noussut, lainasanoja ja vieraita äänteitä ei enää vältetä niin paljon kuin ennen.[232]
+
+Nykysuomen kaudella oikeinkirjoitukseen tai kielioppiin ei ole juuri tullut muutoksia, koska ne vakiintuivat jo varhaisnykysuomen kaudella. Muutoksia on tapahtunut lähinnä yksityiskohdissa. Yleensä on pyritty tiiviyteen ja lyhyyteen: esimerkiksi yleinen katsaus > yleiskatsaus, eroavaisuus > eroavuus, teknillinen > tekninen. Yksikön 3. persoonan pi-pääte on jäänyt pois (saapi > saa), ja 3. persoonan omistuliitteessä on yleistynyt lyhyempi variantti: pojallansa > pojallaan.[232][234]
+
+Suomen itsenäistymisen jälkeen hallitusmuodossa säädettiin, että Suomen kansalliskielet ovat suomi ja ruotsi. Suomen kielen asema oli kuitenkin vahvistunut niin paljon, että kyse oli enemmänkin ruotsinkielisen kansanosan oikeuden takaamisesta.[233] Nykyään suomi on myös yksi Euroopan unionin 24 virallisesta kielestä.[235]
+Tutkimus ja opetus
+Suomen kielen sanakirjat ja kielioppiteokset
+Suomalaisen Sana-Lugun Coetus
+
+Vanhimmaksi suomen kielen kieliopiksi arvioidaan Rudimenta linguae finnicae breviter delineata. Teoksen kirjoittajaa tai julkaisuvuotta ei tiedetä, mutta sen uskotaan olevan 1500-luvun lopulta tai 1600-luvun alusta.[236] Aeschillus Petraeus julkaisi kieliopin Linguae Finnicae brevis institutio vuonna 1649. Ensimmäinen laajahko suomen kielen sanakirja on Daniel Jusleniuksen Suomalaisen Sana-Lugun Coetus vuodelta 1745. Se sisältää 16 000 hakusanaa sekä lopussa ruotsinkielisten sanojen luettelon. Vuonna 1917 siitä julkaistiin täydennetty painos. Aarni Penttilän Suomen kielioppi (1957) oli ensimmäinen nykyaikainen yleisesitys suomen kielestä. Vuonna 2004 julkaistu Iso suomen kielioppi on ensimmäinen yksinomaan deskriptiivinen (kuvaileva) kielioppi. Suosittuja kielenkäytön oppaita ovat muun muassa Osmo Ikolan Nykysuomen käsikirja sekä Terho Itkosen ja Sari Maamiehen Uusi kieliopas (2007).
+
+Ensimmäinen täysin yksikielinen suomen kielen sanakirja on Nykysuomen sanakirja. Sen ensimmäinen osa ilmestyi vuonna 1951, vaikka toimitustyö alkoi jo 1920-luvun lopussa. Sen jälkeen osia ilmestyi tasaiseen tahtiin vuoteen 1961 asti, jolloin julkaistiin kuudes ja viimeinen osa. Professorit Martti Airila ja Matti Sadeniemi olivat kirjan päätoimittajia. Nykysuomen sanakirja on sekä kieltä kuvaava että suosituksia sanojen käytöstä antava teos. Nykysuomen sanakirja sisältää yli 200 000 hakusanaa. Vuonna 2002 WSOY julkaisi sanakirjan 15. painoksen, joka on kaikkien uusintapainosten lailla identtinen ensipainoksen kanssa.
+
+Vuosina 1990–95 valmistui Suomen kielen perussanakirja Kotimaisten kielten tutkimuskeskuksen julkaisemana ja Editan kustantamana. Perussanakirja on kolmiosainen, ja se sisältää lähes 100 000 hakusanaa. Se kuvaa nykyisen yleiskielen sanastoa ja antaa ohjeita sanojen käytöstä. Perussanakirjan CD-ROM-versio ilmestyi vuonna 1997. Kielitoimiston sanakirja on vuonna 2005 julkistettu Perussanakirjaan pohjautuva sähköinen sanakirja, joka julkaistiin painettuna laitoksena vuonna 2006.
+
+https://fi.wikipedia.org/wiki/Suomen_kieli
